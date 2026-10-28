@@ -9,422 +9,189 @@ format:
 css: styles.css
 ---
 
-# Bhagy: Brooklyn 99 {.content-background background-image="./static/bhagy.jpg" background-size="100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# About this quiz
+
+These questions will start easy and get harder--so watch out! Everyone will play against the mastermind on their given topic.
+
+## About the questions {.smaller}
+
+Below are the types of questions you'll see:
+
+1. Multiple-choice
+    - The easiest question to get yourself situated
+2. Open
+    - It gets a little harder when you don't have options anymore
+3. Ranking
+    - Can you put them in the right order?
+
+---
+
+## About the questions, cont'd {.smaller}
+
+4. Sound-bite
+    - I'll play a sound clip and you'll have to answer the question related to it
+5. Range
+    - Unlike the other questions so far, whoever is closest will get this point
+6. Who/What am I?
+    - You'll get 3 clues, if you can get the person/object on the first clue that'll be worth 3 points, 2 for the second clue, and 1 for the last clue--pending you get the right answer
+
+## About the scoring
+
+We'll calculate the differentials between the mastermind and the rest of the team--whoever has the highest differential wins.
+
+However, if there is a tie I have some OT questions to break it.
+
+# Alex: Veep {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-What is Terry's wife's name?
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
-a. Linda
-b. Susan
-c. Sharon
-d. Erin
+:::{.incremental}
+a. Catherine O'Hara for Schitt's Creek as Moira Rose
+b. Phoebe Waller-Bridge for Fleabag
+c. Natasha Lyonne for Russian Doll as Nadia
+d. Christina Applegate for Dead to Me as Jen
+:::
 
 ## Question 2
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-What mobile game does Holt become addicted to?
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
 
 ## Question 3
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-Order these minor characters by number of episode appearances (highest to lowest)
+List these guests in chronological order of appearance.
 
-a. Cheddar
-b. Caleb John Gosche
-c. Madeline Wuntch
-d. Bill Hummertrout
-e. Adrian Pimento
+:::{.incremental}
+a. Patton Oswalt as Teddy Sykes
+b. Rhea Seehorn as Michelle York
+c. Hugh Laurie as Tom James
+d. Christopher Meloni as Ray Whelans
+e. Clea DuVall as Majorie Palmiotti
+:::
 
 ## Question 4
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-What is happening to Charles in this [soundbite](https://youtu.be/Xu-VaMy9sFQ?si=95CPKOY63Rn5O7A9&t=914)?
+What is Selina Meyer referring to in this clip?
 
 ## Question 5
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-In Season 1 Jake Peralta discovers he owes back rent on his grandmother's appartment after failing to open the mail. How much does he owe?
-
+Throughout the entire series, how many days did Selina Meyer serve as president?
 
 ## Question 6
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-Who am I?
+Who/what am I?
 
 ::: {.incremental}
-- I am allegedly "haunted" by the spirit of a 1920s mobster's mistress.
-- Charles leaves me to Jake and Amy in his will.
-- I require a highly specific, disgusting daily feeding ritual and I am the secret behind the Boyle family's legendary pizza crust.
+- I am once described as "[Selena's] two big, very busy webbed legs and feet"
+- Using me for too long may necessitate a visit from a masseur
+- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
 :::
 
-## Question 1
+## Answer 1
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-What is Terry's wife's name?
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
-a. Linda
-b. Susan
-c. **Sharon**
-d. Erin
+:::{.incremental}
+- **b. Phoebe Waller-Bridge for Fleabag**
+:::
 
-## Question 2
-
-What mobile game does Holt become addicted to?
-
-**Kwazy Cupcakes**
-
-## Question 3
-
-Order these minor characters by number of episode appearances (highest to lowest)
-
-e. Adrian Pimento (13)
-c. Madeline Wuntch (12)
-a. Cheddar (9)
-d. Bill Hummertrout (7)
-b. Caleb John Gosche (4)
-
-
-## Question 4
+## Answer 2
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-What is happening to Charles in this [soundbite](https://youtu.be/Xu-VaMy9sFQ?si=95CPKOY63Rn5O7A9&t=914)?
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
 
-**Rosa is shooting him with a Portable Ultrasonic Weapon.**
+:::{.incremental}
+- **A red dress**
+:::
 
-## Question 5
+## Answer 3
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-In Season 1 Jake Peralta discovers he owes back rent on his grandmother's appartment after failing to open the mail. How much does he owe?
+List these guests in chronological order of appearance.
 
-**$43,000**
+:::{.incremental}
+d. **Christopher Meloni as Ray Whelans (S3E6)**
+a. **Patton Oswalt as Teddy Sykes (S4E1)**
+c. **Hugh Laurie as Tom James (S4E5)**
+e. **Clea DuVall as Majorie Palmiotti (S5E1)**
+b. **Rhea Seehorn as Michelle York (S7E2)**
+:::
 
-## Question 6
+## Answer 4
 
 ::: footer
-Bhagy - Brooklyn 99
+Alex - Veep
 :::
 
-Who am I?
+What is Selina Meyer referring to in this clip?
 
-- I am allegedly "haunted" by the spirit of a 1920s mobster's mistress.
-- Charles leaves me to Jake and Amy in his will.
-- I require a highly specific, disgusting daily feeding ritual and I am the secret behind the Boyle family's legendary pizza crust.
+:::{.incremental}
+- **Catherine's hair**
+:::
 
-
-**The Motherdough**
-
-# Noah: Metal Music {.content-background background-image="./static/noah.jpeg" background-size="auto 100%" background-repeat="repeat" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
-
-## Question 1
+## Answer 5
 
 ::: footer
-Noah - Metal Music
+Alex - Veep
 :::
 
-Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
+Throughout the entire series, how many days did Selina Meyer serve as president?
 
-a. Led Zeppelin
-b. The Rolling Stones
-c. Deep Purple
-d. Black Sabbath
+:::{.incremental}
+- **1825**
+:::
 
-## Question 2
+## Answer 6
 
 ::: footer
-Noah - Metal Music
+Alex - Veep
 :::
 
-This northern European city was considered an early metal music hub.
+Who/what am I?
 
-## Question 3
-
-::: footer
-Noah - Metal Music
+::: {.nonincremental}
+- I am once described as "[Selena's] two big, very busy webbed legs and feet"
+- Using me for too long may necessitate a visit from a masseur
+- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
 :::
 
-Order the "mainstream" appearance of each metal subgenre from earliest to latest:
+<br>
 
-a. Doom Metal
-b. Alternative Metal
-c. Thrash Metal
-d. Death Metal
-e. Grunge Metal
-
-
-## Question 4
-
-::: footer
-Noah - Metal Music
+:::{.incremental}
+- **The Leviathan (Gary's bag)**
 :::
-
-Which metal-inspired artist is featured in this clip?
-
-## Question 5
-
-::: footer
-Noah - Metal Music
-:::
-
-BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
-
-
-## Question 6
-
-::: footer
-Noah - Metal Music
-:::
-
-What am I?
-
-::: {.incremental}
-- This style evolved out of progressive metal and was popularized by the internet in the early 2000s.
-- This style heavily uses syncopated riffs, distortions and polyrhythms.
-- This style characteristically uses 7, 8 or even 9 stringed-guitars.
-:::
-
-
-## Answers
-
-## Question 1
-
-::: footer
-Noah - Metal Music
-:::
-
-Which of the following well-known 1960s bands is not considered a pioneer of heavy metal?
-
-a. Led Zeppelin
-b. **The Rolling Stones**
-c. Deep Purple
-d. Black Sabbath
-
-## Question 2
-
-::: footer
-Noah - Metal Music
-:::
-
-This northern European city was considered an early metal music hub.
-
-**Gothenburg, Sweden**
-
-## Question 3
-
-::: footer
-Noah - Metal Music
-:::
-
-Order the "mainstream" appearance of each submetal genre from earliest to latest:
-
-a. Thrash Metal (1980s)
-b. Death Metal (mid 1980s)
-c. Doom Metal (late 1980s - early 90s)
-d. Grunge Metal (mid 1990s)
-e. Alternative Metal (early 2000s)
-
-## Question 4
-
-::: footer
-Noah - Metal Music
-:::
-
-Which metal-inspired artist is featured in this clip?
-
-**Evanescence**
-
-## Question 5
-
-::: footer
-Noah - Metal Music
-:::
-
-BABYMETAL are a Nu Metal Group from Japan. As of July 13th. How many plays does their top song have on Spotify?
-
-143,910,465
-
-## Question 6
-
-::: footer
-Noah - Metal Music
-:::
-
-What am I? 
-
-- This style evolved out of progressive metal.
-- This style heavily uses syncopated riffs, distortions and polyrhythms.
-- This style characteristically uses 7, 8 or even 9 stringed-guitars.
-
-**Djent**
-
-
-# Hayley: Grade 9 Geography {.content-background background-image="./static/hayley.jpg" background-size="100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
-
-## Question 1
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Which province produces the most hydroelectric power?
-
-a. Ontario
-b. Quebec
-c. British Columbia
-d. Alberta
-
-## Question 2
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Which natural resource industry employs the most people in Canada?
-
-## Question 3
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Order these Canadian demographic events:
-
-a. Canada's population surpasses 30 million
-b. Millenials outnumbered Baby Boomers
-c. Canada's total fertility rate drops below 2 babies per female
-d. The first Gen Alpha is born
-e. Nunavut becomes a territory
-
-## Question 4
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-What location is "discovered" in this [Heritage Minute](https://www.historicacanada.ca/productions/minutes/jean-nicollet)?
-
-## Question 5
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-How many square km is the Canadian shield?
-
-## Question 6
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-What am I?
-
-::: {.incremental}
-- I am shared by Canada and the US and am named after a Greek explorer.
-- I last caused a major earthquake in 1700.
-- I am a microplate in the ring of fire.
-:::
-
-## Answers
-
-## Question 1
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Which province produces the most hydroelectric power?
-
-a. Ontario
-b. **Quebec**
-c. British Columbia
-d. Alberta
-
-## Question 2
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Which natural resource industry employs the most people in Canada?
-
-**Minerals and metals**
-
-## Question 3
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-Order these Canadian demographic events:
-
-a. Canada's total fertility rate drops below 2 babies per female (1972)
-b. Nunavut becomes a territory (1999)
-c. Canada's population surpasses 30 million (2001)
-d. The first Gen Alpha is born (2010)
-e. Millenials outnumbered Baby Boomers (2023)
-
-## Question 4
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-What location is "discovered" in this [Heritage Minute](https://www.historicacanada.ca/productions/minutes/jean-nicollet)?
-
-**Lake Michigan**
-
-## Question 5
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-How many square km is the Canadian shield?
-
-**8,000,000 km^2**
-
-## Question 6
-
-::: footer
-Hayley - Grade 9 Geography
-:::
-
-What am I? 
-
-- I am shared by Canada and the US and am named after a Greek explorer.
-- I last caused a major earthquake in 1700.
-- I am a microplate in the ring of fire.
-
-**Juan de Fuca Plate**
-
-
-# Thanks for playing!
