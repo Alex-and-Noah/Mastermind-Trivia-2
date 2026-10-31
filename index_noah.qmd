@@ -22,17 +22,8 @@ Below are the types of questions you'll see:
     - It gets a little harder when you don't have options anymore
 3. Ranking
     - Can you put them in the right order?
-
----
-
-## About the questions, cont'd {.smaller}
-
-4. Sound-bite
-    - I'll play a sound clip and you'll have to answer the question related to it
-5. Range
+4. Range
     - Unlike the other questions so far, whoever is closest will get this point
-6. Who/What am I?
-    - You'll get 3 clues, if you can get the person/object on the first clue that'll be worth 3 points, 2 for the second clue, and 1 for the last clue--pending you get the right answer
 
 ## About the scoring
 
@@ -40,7 +31,7 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some OT questions to break it.
 
-# Alex: Veep {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Jackie: Classic Rock {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -87,29 +78,7 @@ e. Clea DuVall as Majorie Palmiotti
 Alex - Veep
 :::
 
-What is Selina Meyer referring to in this clip?
-
-## Question 5
-
-::: footer
-Alex - Veep
-:::
-
 Throughout the entire series, how many days did Selina Meyer serve as president?
-
-## Question 6
-
-::: footer
-Alex - Veep
-:::
-
-Who/what am I?
-
-::: {.incremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
-:::
 
 ## Answer 1
 
@@ -163,7 +132,50 @@ What is Selina Meyer referring to in this clip?
 - **Catherine's hair**
 :::
 
-## Answer 5
+
+
+# Ken: Construction tools, equipment and processes {.content-background background-image="static/ken.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Alex - Veep
+:::
+
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+
+:::{.incremental}
+a. Catherine O'Hara for Schitt's Creek as Moira Rose
+b. Phoebe Waller-Bridge for Fleabag
+c. Natasha Lyonne for Russian Doll as Nadia
+d. Christina Applegate for Dead to Me as Jen
+:::
+
+## Question 2
+
+::: footer
+Alex - Veep
+:::
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+## Question 3
+
+::: footer
+Alex - Veep
+:::
+
+List these guests in chronological order of appearance.
+
+:::{.incremental}
+a. Patton Oswalt as Teddy Sykes
+b. Rhea Seehorn as Michelle York
+c. Hugh Laurie as Tom James
+d. Christopher Meloni as Ray Whelans
+e. Clea DuVall as Majorie Palmiotti
+:::
+
+## Question 4
 
 ::: footer
 Alex - Veep
@@ -171,26 +183,157 @@ Alex - Veep
 
 Throughout the entire series, how many days did Selina Meyer serve as president?
 
-:::{.incremental}
-- **1825**
-:::
-
-## Answer 6
+## Answer 1
 
 ::: footer
 Alex - Veep
 :::
 
-Who/what am I?
-
-::: {.nonincremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
-:::
-
-<br>
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
 
 :::{.incremental}
-- **The Leviathan (Gary's bag)**
+- **b. Phoebe Waller-Bridge for Fleabag**
+:::
+
+## Answer 2
+
+::: footer
+Alex - Veep
+:::
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+:::{.incremental}
+- **A red dress**
+:::
+
+## Answer 3
+
+::: footer
+Alex - Veep
+:::
+
+List these guests in chronological order of appearance.
+
+:::{.incremental}
+d. **Christopher Meloni as Ray Whelans (S3E6)**
+a. **Patton Oswalt as Teddy Sykes (S4E1)**
+c. **Hugh Laurie as Tom James (S4E5)**
+e. **Clea DuVall as Majorie Palmiotti (S5E1)**
+b. **Rhea Seehorn as Michelle York (S7E2)**
+:::
+
+## Answer 4
+
+::: footer
+Alex - Veep
+:::
+
+What is Selina Meyer referring to in this clip?
+
+:::{.incremental}
+- **Catherine's hair**
+:::
+
+
+
+# Alex: R Programming Language {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Alex - Veep
+:::
+
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+
+:::{.incremental}
+a. Catherine O'Hara for Schitt's Creek as Moira Rose
+b. Phoebe Waller-Bridge for Fleabag
+c. Natasha Lyonne for Russian Doll as Nadia
+d. Christina Applegate for Dead to Me as Jen
+:::
+
+## Question 2
+
+::: footer
+Alex - Veep
+:::
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+## Question 3
+
+::: footer
+Alex - Veep
+:::
+
+List these guests in chronological order of appearance.
+
+:::{.incremental}
+a. Patton Oswalt as Teddy Sykes
+b. Rhea Seehorn as Michelle York
+c. Hugh Laurie as Tom James
+d. Christopher Meloni as Ray Whelans
+e. Clea DuVall as Majorie Palmiotti
+:::
+
+## Question 4
+
+::: footer
+Alex - Veep
+:::
+
+Throughout the entire series, how many days did Selina Meyer serve as president?
+
+## Answer 1
+
+::: footer
+Alex - Veep
+:::
+
+Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+
+:::{.incremental}
+- **b. Phoebe Waller-Bridge for Fleabag**
+:::
+
+## Answer 2
+
+::: footer
+Alex - Veep
+:::
+
+What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+:::{.incremental}
+- **A red dress**
+:::
+
+## Answer 3
+
+::: footer
+Alex - Veep
+:::
+
+List these guests in chronological order of appearance.
+
+:::{.incremental}
+d. **Christopher Meloni as Ray Whelans (S3E6)**
+a. **Patton Oswalt as Teddy Sykes (S4E1)**
+c. **Hugh Laurie as Tom James (S4E5)**
+e. **Clea DuVall as Majorie Palmiotti (S5E1)**
+b. **Rhea Seehorn as Michelle York (S7E2)**
+:::
+
+## Answer 4
+
+::: footer
+Alex - Veep
+:::
+
+What is Selina Meyer referring to in this clip?
+
+:::{.incremental}
+- **Catherine's hair**
 :::

@@ -41,157 +41,309 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some OT questions to break it.
 
-# Alex: Veep {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Murdoch: America's Next Top Model {.content-background background-image="static/murdoch.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Each cycle features an international destination for the second half of the cycle. Which city was never featured?
 
 :::{.incremental}
-a. Catherine O'Hara for Schitt's Creek as Moira Rose
-b. Phoebe Waller-Bridge for Fleabag
-c. Natasha Lyonne for Russian Doll as Nadia
-d. Christina Applegate for Dead to Me as Jen
+a. Cape Town
+b. Macau
+c. Copenhagen
+d. Milan
 :::
 
 ## Question 2
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+In Cycle 4 (2005) a contestant was treated for what members of the model house believed to be a flesh eating bacteria but was actually a simple staph infection. What real world medical emergency prompted the flesh-eating bacteria panic?
 
 ## Question 3
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-List these guests in chronological order of appearance.
+List these iconic ANTM moments in chronological order:
 
 :::{.incremental}
-a. Patton Oswalt as Teddy Sykes
-b. Rhea Seehorn as Michelle York
-c. Hugh Laurie as Tom James
-d. Christopher Meloni as Ray Whelans
-e. Clea DuVall as Majorie Palmiotti
+a. Tyra coins the phrase "smize"
+b. Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy
+c. ANTM All Stars cycle
+d. The first openly trans model competes on ANTM
+e. Tyra orders cosmetic dental surgery for a contestant
 :::
 
 ## Question 4
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
-
-What is Selina Meyer referring to in this clip?
-
-## Question 5
-
-::: footer
-Alex - Veep
-:::
-
-Throughout the entire series, how many days did Selina Meyer serve as president?
-
-## Question 6
-
-::: footer
-Alex - Veep
-:::
-
-Who/what am I?
-
-::: {.incremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
-:::
+Throughout the entire show, how many panels were hosted?
 
 ## Answer 1
 
-::: footer
-Alex - Veep
-:::
-
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Each cycle features an international destination for the second half of the cycle. Which city was never featured?
 
 :::{.incremental}
-- **b. Phoebe Waller-Bridge for Fleabag**
+**c. Copenhagen**
 :::
 
 ## Answer 2
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+
+In Cycle 4 (2005) a contestant was treated for what members of the model house believed to be a flesh eating bacteria but was actually a simple staph infection. What real world medical emergency prompted the flesh-eating bacteria panic?
 
 :::{.incremental}
-- **A red dress**
+**MRSA**
+:::
+
+
+::: footer
+Murdoch - ANTM
 :::
 
 ## Answer 3
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-List these guests in chronological order of appearance.
+
+List these iconic ANTM moments in chronological order:
 
 :::{.incremental}
-d. **Christopher Meloni as Ray Whelans (S3E6)**
-a. **Patton Oswalt as Teddy Sykes (S4E1)**
-c. **Hugh Laurie as Tom James (S4E5)**
-e. **Clea DuVall as Majorie Palmiotti (S5E1)**
-b. **Rhea Seehorn as Michelle York (S7E2)**
+b. Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy Cycle 4
+e. Tyra orders cosmetic dental surgery for a contestant (first time) Cycle 6
+d. The first openly trans model competes on ANTM Cycle 11
+a. Tyra coins the phrase "smize" Cycle 13
+c. ANTM All Stars cycle Cycle 17
 :::
 
 ## Answer 4
 
 ::: footer
-Alex - Veep
+Murdoch - ANTM
 :::
 
-What is Selina Meyer referring to in this clip?
+Throughout the entire show, how many panels were hosted?
 
 :::{.incremental}
-- **Catherine's hair**
+- **315**
 :::
 
-## Answer 5
+# Kreag: Drag Race {.content-background background-image="static/kreag.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
 
 ::: footer
-Alex - Veep
+Kreag - Drag Race
 :::
 
-Throughout the entire series, how many days did Selina Meyer serve as president?
+Which Queen started the tradition of writing a farewell message on the mirror after elimination?
 
 :::{.incremental}
-- **1825**
+a. Delta Work
+b. Raven
+c. Sharon Needles
+d. Shangela
 :::
 
-## Answer 6
+## Question 2
 
 ::: footer
-Alex - Veep
+Kreag - Drag Race
 :::
 
-Who/what am I?
+Rupaul closes each episode by saying "If you can't love yourself, how in the hell are you going to love somebody else?". Who inspired this saying?
 
-::: {.nonincremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
+## Question 3
+
+::: footer
+Kreag - Drag Race
 :::
 
-<br>
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs. Rank them from most to least.
 
 :::{.incremental}
-- **The Leviathan (Gary's bag)**
+a. Lady Gaga
+b. Dolly Parton
+c. Beyoncé
+d. Kylie Minogue
+e. Britney Spears
+:::
+
+## Question 4
+
+::: footer
+Kreag - Drag Race
+:::
+
+Approximately how much prize money has been awarded to contestants over the course of the show?
+
+## Answer 1
+
+::: footer
+Kreag - Drag Race
+:::
+
+Which Queen started the tradition of writing a farewell message on the mirror after elimination?
+
+:::{.incremental}
+**d. Shangela**
+:::
+
+## Answer 2
+
+::: footer
+Kreag - Drag Race
+:::
+
+Rupaul closes each episode by saying "If you can't love yourself, how in the hell are you going to love somebody else?". Who inspired this saying?
+
+:::{.incremental}
+**His mother**
+:::
+
+## Answer 3
+
+::: footer
+Kreag - Drag Race
+:::
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs. Rank them from most to least.
+
+:::{.incremental}
+a. Lady Gaga 15
+d. Kylie Minogue 13
+c. Beyoncé 11
+e. Britney Spears 9
+b. Dolly Parton 3
+:::
+
+## Answer 4
+
+::: footer
+Kreag - Drag Race
+:::
+
+Approximately how much prize money has been awarded to contestants over the course of the show?
+
+:::{.incremental}
+**Approx 7.5 million**
+:::
+
+
+# Jenny: 80s Sitcoms {.content-background background-image="static/jenny.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+a. David Shumway
+b. Curtis Shumway
+c. Gordon Shumway
+d. Andrew Shumway
+:::
+
+## Question 2
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+## Question 3
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+Rank the ages of the Golden Girls in season one (plus mum aged now) from youngest to oldest
+
+:::{.incremental}
+- Mum (Jackie McSween)
+- Sophia Petrillo (Estelle Getty)
+- Blanche Devereaux (Rue McClanahan)
+- Dorothy Zbornak (Bea Arthur)
+- Rose Nylund (Betty White)
+:::
+
+## Question 4
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+## Answer 1
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+**c. Gordon Shumway**
+:::
+
+## Answer 2
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+:::{.incremental}
+**Jesse and the Rippers**
+:::
+
+## Answer 3
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+Rank the ages of the Golden Girls in season one (plus mum now) from youngest to oldest
+
+:::{.incremental}
+- Blanche Devereaux (Rue McClanahan): 53
+- Dorothy Zbornak (Bea Arthur): 53
+- Rose Nylund (Betty White): 55
+- Mum (Jackie McSween): 65
+- Sophia Petrillo (Estelle Getty): 80
+
+
+:::
+## Answer 4
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+
+:::{.incremental}
+**275 + 264 = 539**
 :::
