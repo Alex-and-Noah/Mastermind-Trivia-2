@@ -134,105 +134,106 @@ What is Selina Meyer referring to in this clip?
 
 
 
-# Ken: Construction tools, equipment and processes {.content-background background-image="static/ken.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Ken: Construction tools, equipment and processes {.content-background background-image="./static/ken.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of these are not a real product?
 
 :::{.incremental}
-a. Catherine O'Hara for Schitt's Creek as Moira Rose
-b. Phoebe Waller-Bridge for Fleabag
-c. Natasha Lyonne for Russian Doll as Nadia
-d. Christina Applegate for Dead to Me as Jen
+a. Makita 40Vmax XGT Microwave Oven
+b. Ryobi 60V 3-Speed Kitchen Blender
+c. Milwuakee M12 Soldering Iron
+d. Dewalt Jobsite Pro Water-Resistant Wearable Speaker
 :::
 
 ## Question 2
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
 
 ## Question 3
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-List these guests in chronological order of appearance.
+These woods are ranked from order of least hard to most hard (Janka hardness test).
+
+a. Douglas Fir
+b. Mahogany
+c. Black Walnut
+d. Birch
+
+Place the following wood in this order:
 
 :::{.incremental}
-a. Patton Oswalt as Teddy Sykes
-b. Rhea Seehorn as Michelle York
-c. Hugh Laurie as Tom James
-d. Christopher Meloni as Ray Whelans
-e. Clea DuVall as Majorie Palmiotti
+e. Teak
 :::
 
 ## Question 4
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-Throughout the entire series, how many days did Selina Meyer serve as president?
+In which year was Portland cement invented?
 
 ## Answer 1
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of these are not a real product?
 
 :::{.incremental}
-- **b. Phoebe Waller-Bridge for Fleabag**
+- **b. Ryobi 60V 3-Speed Kitchen Blender**
 :::
 
 ## Answer 2
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
 
 :::{.incremental}
-- **A red dress**
+- **Bosch IXO, 2003**
 :::
 
 ## Answer 3
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-List these guests in chronological order of appearance.
+These woods are ranked from order of least hard to most hard (Janka hardness test).
 
-:::{.incremental}
-d. **Christopher Meloni as Ray Whelans (S3E6)**
-a. **Patton Oswalt as Teddy Sykes (S4E1)**
-c. **Hugh Laurie as Tom James (S4E5)**
-e. **Clea DuVall as Majorie Palmiotti (S5E1)**
-b. **Rhea Seehorn as Michelle York (S7E2)**
-:::
+a. Douglas Fir (660)
+b. Mahogany (900)
+c. Black Walnut (1010)
+**e. Teak (1070)**
+d. Birch (1260)
 
 ## Answer 4
 
 ::: footer
-Alex - Veep
+Ken: Construction tools, equipment and processes
 :::
 
-What is Selina Meyer referring to in this clip?
+In which year was Portland cement invented?
 
 :::{.incremental}
-- **Catherine's hair**
+- **1824**
 :::
 
 
