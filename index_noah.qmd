@@ -64,10 +64,12 @@ Jackie - Classic Rock
 
 These bands are sorted by release date of their first studio album:
 
+:::{.incremental}
 a. The Rolling Stones
 b. The Who
 c. Led Zeppelin
 d. Styx
+:::
 
 Place the following band in this order:
 
@@ -92,7 +94,7 @@ Jackie - Classic Rock
 Which classic rock album was the quickest to reach 1 million sales in Canada?
 
 :::{.incremental}
-**a. Fleetwood Mac - Rumours (1 year and 1 month)**
+a. **Fleetwood Mac - Rumours (1 year and 1 month)**
 :::
 
 ## Answer 2
@@ -115,11 +117,13 @@ Jackie - Classic Rock
 
 These bands are sorted by release date of their first studio album:
 
+:::{.incremental}
 a. The Rolling Stones (1964)
 b. The Who (1965)
 e. **Pink Floyd (1967)**
 c. Led Zeppelin (1969)
 d. Styx (1972)
+:::
 
 ## Answer 4
 
@@ -166,10 +170,12 @@ Ken - Construction tools, equipment and processes
 
 These woods are ranked from order of least hard to most hard (Janka hardness test).
 
+:::{.incremental}
 a. Douglas Fir
 b. Mahogany
 c. Black Walnut
 d. Birch
+:::
 
 Place the following wood in this order:
 
@@ -217,11 +223,13 @@ Ken - Construction tools, equipment and processes
 
 These woods are ranked from order of least hard to most hard (Janka hardness test).
 
+:::{.incremental}
 a. Douglas Fir (660)
 b. Mahogany (900)
 c. Black Walnut (1010)
 e. **Teak (1070)**
 d. Birch (1260)
+:::
 
 ## Answer 4
 
@@ -235,9 +243,7 @@ In which year was Portland cement invented?
 - **1824**
 :::
 
-
-
-# Alex: R Programming Language {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Alex: R Programming Language {.content-background background-image="./static/alex.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -245,13 +251,13 @@ In which year was Portland cement invented?
 Alex - R programming language
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of these is not a conference affiliated with R?
 
 :::{.incremental}
-a. Catherine O'Hara for Schitt's Creek as Moira Rose
-b. Phoebe Waller-Bridge for Fleabag
-c. Natasha Lyonne for Russian Doll as Nadia
-d. Christina Applegate for Dead to Me as Jen
+a. R!sk
+b. PyRSquared
+c. Directions in Statistical Computing
+d. Cascadia R
 :::
 
 ## Question 2
@@ -268,14 +274,19 @@ Why is the R programming language named as such? (Two answers, 0.5 points each)
 Alex - R programming language
 :::
 
-List these guests in chronological order of appearance.
+These programming languages are sorted by release date.
 
 :::{.incremental}
-a. Patton Oswalt as Teddy Sykes
-b. Rhea Seehorn as Michelle York
-c. Hugh Laurie as Tom James
-d. Christopher Meloni as Ray Whelans
-e. Clea DuVall as Majorie Palmiotti
+a. C++
+b. Python
+c. Java
+d. Powershell
+:::
+
+Place the following programming language in this order:
+
+:::{.incremental}
+e. R
 :::
 
 ## Question 4
@@ -284,7 +295,7 @@ e. Clea DuVall as Majorie Palmiotti
 Alex - R programming language
 :::
 
-As of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)? (25623)
+As of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?
 
 ## Answer 1
 
@@ -292,10 +303,10 @@ As of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Compreh
 Alex - R programming language
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of these is not a conference affiliated with R?
 
 :::{.incremental}
-- **b. Phoebe Waller-Bridge for Fleabag**
+b. **PyRSquared**
 :::
 
 ## Answer 2
@@ -307,7 +318,7 @@ Alex - R programming language
 Why is the R programming language named as such? (Two answers, 0.5 points each)
 
 :::{.incremental}
-1. **R is the shared first initials of the language's authors.**
+1. **R is the shared first initial of the language's authors.**
 1. **R comes after S in the alphabet (R is a sucessor of the language S)**
 :::
 
@@ -317,14 +328,14 @@ Why is the R programming language named as such? (Two answers, 0.5 points each)
 Alex - R programming language
 :::
 
-List these guests in chronological order of appearance.
+These programming languages are sorted by release date.
 
 :::{.incremental}
-d. **Christopher Meloni as Ray Whelans (S3E6)**
-a. **Patton Oswalt as Teddy Sykes (S4E1)**
-c. **Hugh Laurie as Tom James (S4E5)**
-e. **Clea DuVall as Majorie Palmiotti (S5E1)**
-b. **Rhea Seehorn as Michelle York (S7E2)**
+a. C++ (1983)
+b. Python (1991)
+e. **R (1993)**
+c. Java (1995)
+d. Powershell (2006)
 :::
 
 ## Answer 4
@@ -333,8 +344,8 @@ b. **Rhea Seehorn as Michelle York (S7E2)**
 Alex - R programming language
 :::
 
-What is Selina Meyer referring to in this clip?
+As of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?
 
 :::{.incremental}
-- **Catherine's hair**
+- **25623**
 :::
