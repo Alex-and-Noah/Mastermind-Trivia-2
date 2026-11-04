@@ -31,115 +31,114 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some OT questions to break it.
 
-# Jackie: Classic Rock {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Jackie: Classic Rock {.content-background background-image="./static/jackie.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which classic rock album was the quickest to reach 1 million sales in Canada?
 
 :::{.incremental}
-a. Catherine O'Hara for Schitt's Creek as Moira Rose
-b. Phoebe Waller-Bridge for Fleabag
-c. Natasha Lyonne for Russian Doll as Nadia
-d. Christina Applegate for Dead to Me as Jen
+a. Fleetwood Mac - Rumours
+b. Bon Jovi - Slippery When Wet
+c. AC/DC - Back in Black
+d. Def Leppard - Hysteria
 :::
 
 ## Question 2
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Who was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?
 
 ## Question 3
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-List these guests in chronological order of appearance.
+These bands are sorted by release date of their first studio album:
+
+a. The Rolling Stones
+b. The Who
+c. Led Zeppelin
+d. Styx
+
+Place the following band in this order:
 
 :::{.incremental}
-a. Patton Oswalt as Teddy Sykes
-b. Rhea Seehorn as Michelle York
-c. Hugh Laurie as Tom James
-d. Christopher Meloni as Ray Whelans
-e. Clea DuVall as Majorie Palmiotti
+e. Pink Floyd
 :::
 
 ## Question 4
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-Throughout the entire series, how many days did Selina Meyer serve as president?
+As of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?
 
 ## Answer 1
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which classic rock album was the quickest to reach 1 million sales in Canada?
 
 :::{.incremental}
-- **b. Phoebe Waller-Bridge for Fleabag**
+**a. Fleetwood Mac - Rumours (1 year and 1 month)**
 :::
 
 ## Answer 2
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Who was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?
 
 :::{.incremental}
-- **A red dress**
+- **The Band (1994)**
 :::
 
 ## Answer 3
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-List these guests in chronological order of appearance.
+These bands are sorted by release date of their first studio album:
 
-:::{.incremental}
-d. **Christopher Meloni as Ray Whelans (S3E6)**
-a. **Patton Oswalt as Teddy Sykes (S4E1)**
-c. **Hugh Laurie as Tom James (S4E5)**
-e. **Clea DuVall as Majorie Palmiotti (S5E1)**
-b. **Rhea Seehorn as Michelle York (S7E2)**
-:::
+a. The Rolling Stones (1964)
+b. The Who (1965)
+e. **Pink Floyd (1967)**
+c. Led Zeppelin (1969)
+d. Styx (1972)
 
 ## Answer 4
 
 ::: footer
-Alex - Veep
+Jackie - Classic Rock
 :::
 
-What is Selina Meyer referring to in this clip?
+As of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?
 
 :::{.incremental}
-- **Catherine's hair**
+- **7612**
 :::
-
-
 
 # Ken: Construction tools, equipment and processes {.content-background background-image="./static/ken.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 Which of these are not a real product?
@@ -154,7 +153,7 @@ d. Dewalt Jobsite Pro Water-Resistant Wearable Speaker
 ## Question 2
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
@@ -162,7 +161,7 @@ What was the first company in the world to launch a power tool that runs on a li
 ## Question 3
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 These woods are ranked from order of least hard to most hard (Janka hardness test).
@@ -181,7 +180,7 @@ e. Teak
 ## Question 4
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 In which year was Portland cement invented?
@@ -189,7 +188,7 @@ In which year was Portland cement invented?
 ## Answer 1
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 Which of these are not a real product?
@@ -201,7 +200,7 @@ Which of these are not a real product?
 ## Answer 2
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
@@ -213,7 +212,7 @@ What was the first company in the world to launch a power tool that runs on a li
 ## Answer 3
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 These woods are ranked from order of least hard to most hard (Janka hardness test).
@@ -221,13 +220,13 @@ These woods are ranked from order of least hard to most hard (Janka hardness tes
 a. Douglas Fir (660)
 b. Mahogany (900)
 c. Black Walnut (1010)
-**e. Teak (1070)**
+e. **Teak (1070)**
 d. Birch (1260)
 
 ## Answer 4
 
 ::: footer
-Ken: Construction tools, equipment and processes
+Ken - Construction tools, equipment and processes
 :::
 
 In which year was Portland cement invented?
@@ -243,7 +242,7 @@ In which year was Portland cement invented?
 ## Question 1
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
 Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
@@ -258,15 +257,15 @@ d. Christina Applegate for Dead to Me as Jen
 ## Question 2
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Why is the R programming language named as such? (Two answers, 0.5 points each)
 
 ## Question 3
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
 List these guests in chronological order of appearance.
@@ -282,15 +281,15 @@ e. Clea DuVall as Majorie Palmiotti
 ## Question 4
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
-Throughout the entire series, how many days did Selina Meyer serve as president?
+As of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)? (25623)
 
 ## Answer 1
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
 Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
@@ -302,19 +301,20 @@ Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Com
 ## Answer 2
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Why is the R programming language named as such? (Two answers, 0.5 points each)
 
 :::{.incremental}
-- **A red dress**
+1. **R is the shared first initials of the language's authors.**
+1. **R comes after S in the alphabet (R is a sucessor of the language S)**
 :::
 
 ## Answer 3
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
 List these guests in chronological order of appearance.
@@ -330,7 +330,7 @@ b. **Rhea Seehorn as Michelle York (S7E2)**
 ## Answer 4
 
 ::: footer
-Alex - Veep
+Alex - R programming language
 :::
 
 What is Selina Meyer referring to in this clip?
