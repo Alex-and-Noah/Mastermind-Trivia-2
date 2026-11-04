@@ -449,3 +449,107 @@ Charred crumbs of "unleavened flat bread-like products" found in modern day Jord
 :::
 
 
+# Deb: 80s-90s movies {.content-background background-image="static/noah.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Which of the following grains is not typically used for contemporary western breadmaking?
+
+:::{.incremental}
+a. Spelt
+b. Emmer
+c. Durum
+d. Fife
+:::
+
+## Question 2
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
+
+## Question 3
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+The following 1980s movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
+
+:::{.incremental}
+- Escape from New York
+- Back to the Future Part II
+- Terminator
+- Bill & Ted's Excellent Adventure
+:::
+
+## Question 4
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+What year is Terminator sent back in time from?
+
+## Answer 1
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Which of the following grains is not typically used for contemporary western breadmaking?
+
+:::{.incremental}
+
+**c. Durum**
+
+:::
+
+## Answer 2
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
+
+:::{.incremental}
+**CO2 and ethanol**
+:::
+
+## Answer 3
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+
+The following movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
+
+
+:::{.incremental}
+- Escape from New York 1997
+- Y2K 2000
+- Back to the Future Part II 2015
+- Terminator 2029
+- Bill & Ted's Excellent Adventure 2688
+:::
+
+## Answer 4
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+What year is Terminator sent back in time from?
+
+:::{.incremental}
+2029
+:::
+
