@@ -72,14 +72,15 @@ In Cycle 4 (2005) a contestant was treated for what members of the model house b
 Murdoch - ANTM
 :::
 
-List these iconic ANTM moments in chronological order:
+Insert this iconic ANTM moment in chronological order in the following list:
+
+> The first openly trans model competes on ANTM
 
 :::{.incremental}
-a. Tyra coins the phrase "smize"
-b. Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy
-c. ANTM All Stars cycle
-d. The first openly trans model competes on ANTM
-e. Tyra orders cosmetic dental surgery for a contestant
+- Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy
+- Tyra orders cosmetic dental surgery for a contestant
+- Tyra coins the phrase "smize"
+- ANTM All Stars cycle
 :::
 
 ## Question 4
@@ -125,11 +126,11 @@ Murdoch - ANTM
 List these iconic ANTM moments in chronological order:
 
 :::{.incremental}
-b. Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy Cycle 4
-e. Tyra orders cosmetic dental surgery for a contestant (first time) Cycle 6
-d. The first openly trans model competes on ANTM Cycle 11
-a. Tyra coins the phrase "smize" Cycle 13
-c. ANTM All Stars cycle Cycle 17
+- Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy Cycle 4
+- Tyra orders cosmetic dental surgery for a contestant (first time) Cycle 6
+- The first openly trans model competes on ANTM Cycle 11
+- Tyra coins the phrase "smize" Cycle 13
+- ANTM All Stars cycle Cycle 17
 :::
 
 ## Answer 4
@@ -175,14 +176,13 @@ Rupaul closes each episode by saying "If you can't love yourself, how in the hel
 Kreag - Drag Race
 :::
 
-During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs. Rank them from most to least.
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs multiple times. Insert *Britney Spears* in this list ranked from most lip synced to least.
 
 :::{.incremental}
-a. Lady Gaga
-b. Dolly Parton
-c. Beyoncé
-d. Kylie Minogue
-e. Britney Spears
+- Lady Gaga
+- Kylie Minogue
+- Beyoncé
+- Dolly Parton
 :::
 
 ## Question 4
@@ -276,14 +276,13 @@ What is the name of Uncle Jesse's (John Stamos) band in Full House?
 Jenny - 80s Sitcoms
 :::
 
-Rank the ages of the Golden Girls in season one (plus mum aged now) from youngest to oldest
+Insert Mum (Jackie McSween) age now in this list of Golden Girls ordered from youngest to oldest in season 1.
 
 :::{.incremental}
-- Mum (Jackie McSween)
-- Sophia Petrillo (Estelle Getty)
 - Blanche Devereaux (Rue McClanahan)
 - Dorothy Zbornak (Bea Arthur)
 - Rose Nylund (Betty White)
+- Sophia Petrillo (Estelle Getty)
 :::
 
 ## Question 4
@@ -324,6 +323,107 @@ What is the name of Uncle Jesse's (John Stamos) band in Full House?
 Jenny - 80s Sitcoms
 :::
 
+Insert Mum (Jackie McSween) age now in this list of Golden Girls ordered from youngest to oldest in season 1.
+
+:::{.incremental}
+- Blanche Devereaux (Rue McClanahan): 53
+- Dorothy Zbornak (Bea Arthur): 53
+- Rose Nylund (Betty White): 55
+- Mum (Jackie McSween): 65
+- Sophia Petrillo (Estelle Getty): 80
+:::
+## Answer 4
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+
+:::{.incremental}
+**275 + 264 = 539**
+:::
+
+# Noah: Classic Scifi {.content-background background-image="static/jenny.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Noah: Classic Scifi
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+a. David Shumway
+b. Curtis Shumway
+c. Gordon Shumway
+d. Andrew Shumway
+:::
+
+## Question 2
+
+::: footer
+Noah: Classic Scifi
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+## Question 3
+
+::: footer
+Noah: Classic Scifi
+:::
+
+Rank the ages of the Golden Girls in season one (plus mum aged now) from youngest to oldest
+
+:::{.incremental}
+- Mum (Jackie McSween)
+- Sophia Petrillo (Estelle Getty)
+- Blanche Devereaux (Rue McClanahan)
+- Dorothy Zbornak (Bea Arthur)
+- Rose Nylund (Betty White)
+:::
+
+## Question 4
+
+::: footer
+Noah: Classic Scifi
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+## Answer 1
+
+::: footer
+Noah: Classic Scifi
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+**c. Gordon Shumway**
+:::
+
+## Answer 2
+
+::: footer
+Noah: Classic Scifi
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+:::{.incremental}
+**Jesse and the Rippers**
+:::
+
+## Answer 3
+
+::: footer
+Noah: Classic Scifi
+:::
+
 Rank the ages of the Golden Girls in season one (plus mum now) from youngest to oldest
 
 :::{.incremental}
@@ -338,7 +438,7 @@ Rank the ages of the Golden Girls in season one (plus mum now) from youngest to 
 ## Answer 4
 
 ::: footer
-Jenny - 80s Sitcoms
+Noah: Classic Scifi
 :::
 
 How many episodes are there of Cheers and its spin off show Fraser?
@@ -347,3 +447,5 @@ How many episodes are there of Cheers and its spin off show Fraser?
 :::{.incremental}
 **275 + 264 = 539**
 :::
+
+
