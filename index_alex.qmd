@@ -383,7 +383,7 @@ Insert the invention of a bread slicing machine between these chronological even
 - Insulin is invented
 - Mussolini comes to power in Italy
 - The Persons Case establishes women as legal "persons" in Canada
-- Prohibition ended in the US
+- Prohibition ends in the US
 :::
 
 ## Question 4
@@ -434,7 +434,7 @@ Insert the invention of a bread slicing machine between these chronological even
 - Mussolini comes to power in Italy 1922
 - Bread slicing machine invented 1928
 - The Persons Case establishes women as legal "persons" in Canada 1929
-- Prohibition ended in the US 1933
+- Prohibition ends in the US 1933
 :::
 
 ## Answer 4
@@ -481,7 +481,7 @@ This film shares the record for most academy awards won by a single film.
 Deb - 80s/90s movies
 :::
 
-The following 1980s movies are at least partially set in a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
+The following 1980s movies are at least partially set in a future year and are chronologically sorted by this year from oldest to latest. Insert 2026 in this list.
 
 :::{.incremental}
 - Escape from New York
@@ -509,7 +509,7 @@ Which of the following films would not have been on the shelves on opening day o
 :::{.incremental}
 **c. Die Hard 1988**
 
-Blockbuster opened in 1985
+> Blockbuster opened in 1985
 :::
 
 ## Answer 2
@@ -522,7 +522,8 @@ Deb - 80s/90s movies
 This film shares the record for most academy awards won by a single film.
 
 :::{.incremental}
-**Titanic** 11 awards tied with Ben-Hur and The Lord of the Rings: The Return of the King 
+**Titanic** 
+> 11 awards tied with Ben-Hur and The Lord of the Rings: The Return of the King 
 :::
 
 ## Answer 3
@@ -532,13 +533,13 @@ Deb - 80s/90s movies
 :::
 
 
-The following movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
+The following movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert 2026 in this list.
 
 
 :::{.incremental}
 - Escape from New York 1997
-- Y2K 2000
 - Back to the Future Part II 2015
+- Today 2026
 - Terminator 2029
 - Bill & Ted's Excellent Adventure 2688
 :::
@@ -552,8 +553,7 @@ Deb - 80s/90s movies
 Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars: Episode I – The Phantom Menace came out in 1999. What was the difference in their worldwide gross?
 
 :::{.incremental}
-Episode V - Episode I
-924 317 558 - 538 375 067 = 385 942 491
+924 317 558 (Episode V) - 538 375 067 (Episode I) = 385 942 491
 :::
 
 # Kenda's friend: California {.content-background background-image="static/murdoch.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
