@@ -1,5 +1,243 @@
 [
   {
+    "objectID": "index_noah.html#about-the-questions",
+    "href": "index_noah.html#about-the-questions",
+    "title": "Mastermind Trivia",
+    "section": "About the questions",
+    "text": "About the questions\nBelow are the types of questions you’ll see:\n\nMultiple-choice\n\nThe easiest question to get yourself situated\n\nOpen\n\nIt gets a little harder when you don’t have options anymore\n\nRanking\n\nCan you put them in the right order?\n\nRange\n\nUnlike the other questions so far, whoever is closest will get this point"
+  },
+  {
+    "objectID": "index_noah.html#about-the-scoring",
+    "href": "index_noah.html#about-the-scoring",
+    "title": "Mastermind Trivia",
+    "section": "About the scoring",
+    "text": "About the scoring\nWe’ll calculate the differentials between the mastermind and the rest of the team–whoever has the highest differential wins.\nHowever, if there is a tie I have some OT questions to break it."
+  },
+  {
+    "objectID": "index_noah.html#question-1",
+    "href": "index_noah.html#question-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nMark - The Golden Age of Piracy\n\nWhich of these pirates was not part of the Flying Gang?\n\nBartholomew Roberts\nSamuel Bellamy\nAnne Bonny\nEdward England"
+  },
+  {
+    "objectID": "index_noah.html#question-2",
+    "href": "index_noah.html#question-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate haven of Port Royal was initially founded by which country?"
+  },
+  {
+    "objectID": "index_noah.html#question-3",
+    "href": "index_noah.html#question-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nMark - The Golden Age of Piracy\n\nThe following is a list of pirate ships ordered by least number of cannons to most:\n\nRevenge (Stede Bonnet)\nWhydah (Samuel Bellamy)\nAdventure Galley (William Kidd)\nFancy (Henry Every)\n\nPlace the following ship in this list:\n\nQueen Anne’s Revenge (Edward ‘Blackbeard’ Teach)"
+  },
+  {
+    "objectID": "index_noah.html#question-4",
+    "href": "index_noah.html#question-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nMark - The Golden Age of Piracy\n\nAccording to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1",
+    "href": "index_noah.html#answer-1",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nMark - The Golden Age of Piracy\n\nWhich of these pirates was not part of the Flying Gang?\n\nBartholomew Roberts"
+  },
+  {
+    "objectID": "index_noah.html#answer-2",
+    "href": "index_noah.html#answer-2",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate haven of Port Royal was initially founded by which country?\n\nSpain"
+  },
+  {
+    "objectID": "index_noah.html#answer-3",
+    "href": "index_noah.html#answer-3",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nMark - The Golden Age of Piracy\n\nThe following is a list of pirate ships ordered by least number of cannons to most:\n\nRevenge (Stede Bonnet) - 10\nWhydah (Samuel Bellamy) - 28\nAdventure Galley (William Kidd) - 34\nQueen Anne’s Revenge (Edward ‘Blackbeard’ Teach) - 40\nFancy (Henry Every) - 46"
+  },
+  {
+    "objectID": "index_noah.html#answer-4",
+    "href": "index_noah.html#answer-4",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nMark - The Golden Age of Piracy\n\nAccording to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?\n\n$120 million"
+  },
+  {
+    "objectID": "index_noah.html#question-1-1",
+    "href": "index_noah.html#question-1-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours\nBon Jovi - Slippery When Wet\nAC/DC - Back in Black\nDef Leppard - Hysteria"
+  },
+  {
+    "objectID": "index_noah.html#question-2-1",
+    "href": "index_noah.html#question-2-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nJackie - Classic Rock\n\nWho was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?"
+  },
+  {
+    "objectID": "index_noah.html#question-3-1",
+    "href": "index_noah.html#question-3-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nJackie - Classic Rock\n\nThese bands are sorted by release date of their first studio album:\n\nThe Rolling Stones\nThe Who\nLed Zeppelin\nStyx\n\nPlace the following band in this order:\n\nPink Floyd"
+  },
+  {
+    "objectID": "index_noah.html#question-4-1",
+    "href": "index_noah.html#question-4-1",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nJackie - Classic Rock\n\nAs of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1-1",
+    "href": "index_noah.html#answer-1-1",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours (1 year and 1 month)"
+  },
+  {
+    "objectID": "index_noah.html#answer-2-1",
+    "href": "index_noah.html#answer-2-1",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nJackie - Classic Rock\n\nWho was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?\n\nThe Band (1994)"
+  },
+  {
+    "objectID": "index_noah.html#answer-3-1",
+    "href": "index_noah.html#answer-3-1",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nJackie - Classic Rock\n\nThese bands are sorted by release date of their first studio album:\n\nThe Rolling Stones (1964)\nThe Who (1965)\nPink Floyd (1967)\nLed Zeppelin (1969)\nStyx (1972)"
+  },
+  {
+    "objectID": "index_noah.html#answer-4-1",
+    "href": "index_noah.html#answer-4-1",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nJackie - Classic Rock\n\nAs of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?\n\n7612"
+  },
+  {
+    "objectID": "index_noah.html#question-1-2",
+    "href": "index_noah.html#question-1-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nKen - Construction tools, equipment and processes\n\nWhich of these are not a real product?\n\nMakita 40Vmax XGT Microwave Oven\nRyobi 60V 3-Speed Kitchen Blender\nMilwuakee M12 Soldering Iron\nDewalt Jobsite Pro Water-Resistant Wearable Speaker"
+  },
+  {
+    "objectID": "index_noah.html#question-2-2",
+    "href": "index_noah.html#question-2-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nKen - Construction tools, equipment and processes\n\nWhat was the first company in the world to launch a power tool that runs on a lithium-ion battery?"
+  },
+  {
+    "objectID": "index_noah.html#question-3-2",
+    "href": "index_noah.html#question-3-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nKen - Construction tools, equipment and processes\n\nThese woods are ranked from order of least hard to most hard (Janka hardness test).\n\nDouglas Fir\nMahogany\nBlack Walnut\nBirch\n\nPlace the following wood in this order:\n\nTeak"
+  },
+  {
+    "objectID": "index_noah.html#question-4-2",
+    "href": "index_noah.html#question-4-2",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nKen - Construction tools, equipment and processes\n\nIn which year was Portland cement invented?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1-2",
+    "href": "index_noah.html#answer-1-2",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nKen - Construction tools, equipment and processes\n\nWhich of these are not a real product?\n\nb. Ryobi 60V 3-Speed Kitchen Blender"
+  },
+  {
+    "objectID": "index_noah.html#answer-2-2",
+    "href": "index_noah.html#answer-2-2",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nKen - Construction tools, equipment and processes\n\nWhat was the first company in the world to launch a power tool that runs on a lithium-ion battery?\n\nBosch IXO, 2003"
+  },
+  {
+    "objectID": "index_noah.html#answer-3-2",
+    "href": "index_noah.html#answer-3-2",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nKen - Construction tools, equipment and processes\n\nThese woods are ranked from order of least hard to most hard (Janka hardness test).\n\nDouglas Fir (660)\nMahogany (900)\nBlack Walnut (1010)\nTeak (1070)\nBirch (1260)"
+  },
+  {
+    "objectID": "index_noah.html#answer-4-2",
+    "href": "index_noah.html#answer-4-2",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nKen - Construction tools, equipment and processes\n\nIn which year was Portland cement invented?\n\n1824"
+  },
+  {
+    "objectID": "index_noah.html#question-1-3",
+    "href": "index_noah.html#question-1-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
+  },
+  {
+    "objectID": "index_noah.html#question-2-3",
+    "href": "index_noah.html#question-2-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
+  },
+  {
+    "objectID": "index_noah.html#question-3-3",
+    "href": "index_noah.html#question-3-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
+  },
+  {
+    "objectID": "index_noah.html#question-4-3",
+    "href": "index_noah.html#question-4-3",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1-3",
+    "href": "index_noah.html#answer-1-3",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
+  },
+  {
+    "objectID": "index_noah.html#answer-2-3",
+    "href": "index_noah.html#answer-2-3",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors.\nR comes after S in the alphabet (R is a sucessor of the language S)"
+  },
+  {
+    "objectID": "index_noah.html#answer-3-3",
+    "href": "index_noah.html#answer-3-3",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
+  },
+  {
+    "objectID": "index_noah.html#answer-4-3",
+    "href": "index_noah.html#answer-4-3",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25623"
+  },
+  {
     "objectID": "index.html#about-the-questions",
     "href": "index.html#about-the-questions",
     "title": "Mastermind Trivia",
@@ -460,187 +698,5 @@
     "title": "Mastermind Trivia",
     "section": "Answer 4",
     "text": "Answer 4\n\nCalifornia\n\nThe iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847\n\n47"
-  },
-  {
-    "objectID": "index_noah.html#about-the-questions",
-    "href": "index_noah.html#about-the-questions",
-    "title": "Mastermind Trivia",
-    "section": "About the questions",
-    "text": "About the questions\nBelow are the types of questions you’ll see:\n\nMultiple-choice\n\nThe easiest question to get yourself situated\n\nOpen\n\nIt gets a little harder when you don’t have options anymore\n\nRanking\n\nCan you put them in the right order?\n\nRange\n\nUnlike the other questions so far, whoever is closest will get this point"
-  },
-  {
-    "objectID": "index_noah.html#about-the-scoring",
-    "href": "index_noah.html#about-the-scoring",
-    "title": "Mastermind Trivia",
-    "section": "About the scoring",
-    "text": "About the scoring\nWe’ll calculate the differentials between the mastermind and the rest of the team–whoever has the highest differential wins.\nHowever, if there is a tie I have some OT questions to break it."
-  },
-  {
-    "objectID": "index_noah.html#question-1",
-    "href": "index_noah.html#question-1",
-    "title": "Mastermind Trivia",
-    "section": "Question 1",
-    "text": "Question 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours\nBon Jovi - Slippery When Wet\nAC/DC - Back in Black\nDef Leppard - Hysteria"
-  },
-  {
-    "objectID": "index_noah.html#question-2",
-    "href": "index_noah.html#question-2",
-    "title": "Mastermind Trivia",
-    "section": "Question 2",
-    "text": "Question 2\n\nJackie - Classic Rock\n\nWho was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?"
-  },
-  {
-    "objectID": "index_noah.html#question-3",
-    "href": "index_noah.html#question-3",
-    "title": "Mastermind Trivia",
-    "section": "Question 3",
-    "text": "Question 3\n\nJackie - Classic Rock\n\nThese bands are sorted by release date of their first studio album:\n\nThe Rolling Stones\nThe Who\nLed Zeppelin\nStyx\n\nPlace the following band in this order:\n\nPink Floyd"
-  },
-  {
-    "objectID": "index_noah.html#question-4",
-    "href": "index_noah.html#question-4",
-    "title": "Mastermind Trivia",
-    "section": "Question 4",
-    "text": "Question 4\n\nJackie - Classic Rock\n\nAs of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?"
-  },
-  {
-    "objectID": "index_noah.html#answer-1",
-    "href": "index_noah.html#answer-1",
-    "title": "Mastermind Trivia",
-    "section": "Answer 1",
-    "text": "Answer 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours (1 year and 1 month)"
-  },
-  {
-    "objectID": "index_noah.html#answer-2",
-    "href": "index_noah.html#answer-2",
-    "title": "Mastermind Trivia",
-    "section": "Answer 2",
-    "text": "Answer 2\n\nJackie - Classic Rock\n\nWho was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?\n\nThe Band (1994)"
-  },
-  {
-    "objectID": "index_noah.html#answer-3",
-    "href": "index_noah.html#answer-3",
-    "title": "Mastermind Trivia",
-    "section": "Answer 3",
-    "text": "Answer 3\n\nJackie - Classic Rock\n\nThese bands are sorted by release date of their first studio album:\n\nThe Rolling Stones (1964)\nThe Who (1965)\nPink Floyd (1967)\nLed Zeppelin (1969)\nStyx (1972)"
-  },
-  {
-    "objectID": "index_noah.html#answer-4",
-    "href": "index_noah.html#answer-4",
-    "title": "Mastermind Trivia",
-    "section": "Answer 4",
-    "text": "Answer 4\n\nJackie - Classic Rock\n\nAs of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?\n\n7612"
-  },
-  {
-    "objectID": "index_noah.html#question-1-1",
-    "href": "index_noah.html#question-1-1",
-    "title": "Mastermind Trivia",
-    "section": "Question 1",
-    "text": "Question 1\n\nKen - Construction tools, equipment and processes\n\nWhich of these are not a real product?\n\nMakita 40Vmax XGT Microwave Oven\nRyobi 60V 3-Speed Kitchen Blender\nMilwuakee M12 Soldering Iron\nDewalt Jobsite Pro Water-Resistant Wearable Speaker"
-  },
-  {
-    "objectID": "index_noah.html#question-2-1",
-    "href": "index_noah.html#question-2-1",
-    "title": "Mastermind Trivia",
-    "section": "Question 2",
-    "text": "Question 2\n\nKen - Construction tools, equipment and processes\n\nWhat was the first company in the world to launch a power tool that runs on a lithium-ion battery?"
-  },
-  {
-    "objectID": "index_noah.html#question-3-1",
-    "href": "index_noah.html#question-3-1",
-    "title": "Mastermind Trivia",
-    "section": "Question 3",
-    "text": "Question 3\n\nKen - Construction tools, equipment and processes\n\nThese woods are ranked from order of least hard to most hard (Janka hardness test).\n\nDouglas Fir\nMahogany\nBlack Walnut\nBirch\n\nPlace the following wood in this order:\n\nTeak"
-  },
-  {
-    "objectID": "index_noah.html#question-4-1",
-    "href": "index_noah.html#question-4-1",
-    "title": "Mastermind Trivia",
-    "section": "Question 4",
-    "text": "Question 4\n\nKen - Construction tools, equipment and processes\n\nIn which year was Portland cement invented?"
-  },
-  {
-    "objectID": "index_noah.html#answer-1-1",
-    "href": "index_noah.html#answer-1-1",
-    "title": "Mastermind Trivia",
-    "section": "Answer 1",
-    "text": "Answer 1\n\nKen - Construction tools, equipment and processes\n\nWhich of these are not a real product?\n\nb. Ryobi 60V 3-Speed Kitchen Blender"
-  },
-  {
-    "objectID": "index_noah.html#answer-2-1",
-    "href": "index_noah.html#answer-2-1",
-    "title": "Mastermind Trivia",
-    "section": "Answer 2",
-    "text": "Answer 2\n\nKen - Construction tools, equipment and processes\n\nWhat was the first company in the world to launch a power tool that runs on a lithium-ion battery?\n\nBosch IXO, 2003"
-  },
-  {
-    "objectID": "index_noah.html#answer-3-1",
-    "href": "index_noah.html#answer-3-1",
-    "title": "Mastermind Trivia",
-    "section": "Answer 3",
-    "text": "Answer 3\n\nKen - Construction tools, equipment and processes\n\nThese woods are ranked from order of least hard to most hard (Janka hardness test).\n\nDouglas Fir (660)\nMahogany (900)\nBlack Walnut (1010)\nTeak (1070)\nBirch (1260)"
-  },
-  {
-    "objectID": "index_noah.html#answer-4-1",
-    "href": "index_noah.html#answer-4-1",
-    "title": "Mastermind Trivia",
-    "section": "Answer 4",
-    "text": "Answer 4\n\nKen - Construction tools, equipment and processes\n\nIn which year was Portland cement invented?\n\n1824"
-  },
-  {
-    "objectID": "index_noah.html#question-1-2",
-    "href": "index_noah.html#question-1-2",
-    "title": "Mastermind Trivia",
-    "section": "Question 1",
-    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
-  },
-  {
-    "objectID": "index_noah.html#question-2-2",
-    "href": "index_noah.html#question-2-2",
-    "title": "Mastermind Trivia",
-    "section": "Question 2",
-    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
-  },
-  {
-    "objectID": "index_noah.html#question-3-2",
-    "href": "index_noah.html#question-3-2",
-    "title": "Mastermind Trivia",
-    "section": "Question 3",
-    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
-  },
-  {
-    "objectID": "index_noah.html#question-4-2",
-    "href": "index_noah.html#question-4-2",
-    "title": "Mastermind Trivia",
-    "section": "Question 4",
-    "text": "Question 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
-  },
-  {
-    "objectID": "index_noah.html#answer-1-2",
-    "href": "index_noah.html#answer-1-2",
-    "title": "Mastermind Trivia",
-    "section": "Answer 1",
-    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
-  },
-  {
-    "objectID": "index_noah.html#answer-2-2",
-    "href": "index_noah.html#answer-2-2",
-    "title": "Mastermind Trivia",
-    "section": "Answer 2",
-    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors.\nR comes after S in the alphabet (R is a sucessor of the language S)"
-  },
-  {
-    "objectID": "index_noah.html#answer-3-2",
-    "href": "index_noah.html#answer-3-2",
-    "title": "Mastermind Trivia",
-    "section": "Answer 3",
-    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
-  },
-  {
-    "objectID": "index_noah.html#answer-4-2",
-    "href": "index_noah.html#answer-4-2",
-    "title": "Mastermind Trivia",
-    "section": "Answer 4",
-    "text": "Answer 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25623"
   }
 ]
