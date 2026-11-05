@@ -31,6 +31,113 @@ We'll calculate the differentials between the mastermind and the rest of the tea
 
 However, if there is a tie I have some OT questions to break it.
 
+# Mark: The Golden Age of Piracy {.content-background background-image="./static/mark.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+Which of these pirates was **not** part of the Flying Gang?
+
+:::{.incremental}
+a. Bartholomew Roberts
+b. Samuel Bellamy
+c. Anne Bonny
+d. Edward England
+:::
+
+## Question 2
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The famous pirate haven of Port Royal was initially founded by which country?
+
+## Question 3
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The following is a list of pirate ships ordered by least number of cannons to most:
+
+:::{.incremental}
+a. Revenge (Stede Bonnet)
+b. Whydah (Samuel Bellamy)
+c. Adventure Galley (William Kidd)
+d. Fancy (Henry Every)
+:::
+
+Place the following ship in this list:
+
+:::{.incremental}
+e. Queen Anne's Revenge (Edward 'Blackbeard' Teach)
+:::
+
+## Question 4
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+According to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?
+
+## Answer 1
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+Which of these pirates was **not** part of the Flying Gang?
+
+:::{.incremental}
+a. **Bartholomew Roberts**
+:::
+
+## Answer 2
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The famous pirate haven of Port Royal was initially founded by which country?
+
+:::{.incremental}
+- **Spain**
+:::
+
+## Answer 3
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The following is a list of pirate ships ordered by least number of cannons to most:
+
+:::{.incremental}
+a. Revenge (Stede Bonnet) - 10
+b. Whydah (Samuel Bellamy) - 28
+c. Adventure Galley (William Kidd) - 34
+e. **Queen Anne's Revenge (Edward 'Blackbeard' Teach) - 40**
+d. Fancy (Henry Every) - 46
+:::
+
+## Answer 4
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+According to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?
+
+:::{.incremental}
+- **$120 million**
+:::
+
+
 # Jackie: Classic Rock {.content-background background-image="./static/jackie.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
@@ -274,7 +381,7 @@ Why is the R programming language named as such? (Two answers, 0.5 points each)
 Alex - R programming language
 :::
 
-These programming languages are sorted by release date.
+These programming languages are sorted by release date:
 
 :::{.incremental}
 a. C++
@@ -319,7 +426,7 @@ Why is the R programming language named as such? (Two answers, 0.5 points each)
 
 :::{.incremental}
 1. **R is the shared first initial of the language's authors.**
-1. **R comes after S in the alphabet (R is a sucessor of the language S)**
+2. **R comes after S in the alphabet (R is a sucessor of the language S)**
 :::
 
 ## Answer 3
