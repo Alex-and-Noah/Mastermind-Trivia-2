@@ -122,8 +122,9 @@ Murdoch - ANTM
 Murdoch - ANTM
 :::
 
+Insert this iconic ANTM moment in chronological order in the following list:
 
-List these iconic ANTM moments in chronological order:
+> The first openly trans model competes on ANTM
 
 :::{.incremental}
 - Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy Cycle 4
@@ -222,7 +223,7 @@ Rupaul closes each episode by saying "If you can't love yourself, how in the hel
 ::: footer
 Kreag - Drag Race
 :::
-During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs. Rank them from most to least.
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs multiple times. Insert *Britney Spears* in this list ranked from most lip synced to least.
 
 :::{.incremental}
 a. Lady Gaga 15
@@ -256,10 +257,10 @@ Jenny - 80s Sitcoms
 ALF from ALF stands for Alien Life Form. What is ALF's real name?
 
 :::{.incremental}
-a. David Shumway
-b. Curtis Shumway
-c. Gordon Shumway
-d. Andrew Shumway
+a. David
+b. Curtis
+c. Gordon
+d. Andrew
 :::
 
 ## Question 2
@@ -553,5 +554,109 @@ Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars:
 :::{.incremental}
 Episode V - Episode I
 924 317 558 - 538 375 067 = 385 942 491
+:::
+
+# Kenda's friend: California {.content-background background-image="static/murdoch.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+California
+:::
+
+Which of the following people from previous trivia rounds is not from California?
+
+:::{.incremental}
+a. Tyra Banks
+b. Rupaul
+c. Betty White
+d. John Stamos
+:::
+
+## Question 2
+
+::: footer
+California
+:::
+
+Which fault was to blame for the 1906 San Fransisco earthquake?
+
+## Question 3
+
+::: footer
+California
+:::
+
+These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
+
+:::{.incremental}
+- Population of California surpasses 1 million
+- Women in California are granted the right to vote
+- Los Angeles hosts the summer olympics
+- Steinbeck publishes the Grapes of Wrath
+
+:::
+
+## Question 4
+
+::: footer
+California
+:::
+
+The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847?
+
+## Answer 1
+
+Which of the following characters from previous trivia rounds is not from California?
+
+:::{.incremental}
+
+**c. Betty White**
+
+:::
+
+## Answer 2
+
+::: footer
+California
+:::
+
+Which fault was to blame for the 1906 San Fransisco earthquake?
+
+:::{.incremental}
+**San Andreas Fault**
+:::
+
+::: footer
+California
+:::
+
+## Answer 3
+
+::: footer
+California
+:::
+
+These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
+
+:::{.incremental}
+- Population of California surpasses 1 million 1890
+- Women in California are granted the right to vote 1911
+- Hollywood sign put up 1923
+- Los Angeles hosts the summer olympics 1932
+- Steinbeck publishes the Grapes of Wrath 1939
+
+:::
+
+## Answer 4
+
+::: footer
+California
+:::
+
+The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847
+
+:::{.incremental}
+- **47**
 :::
 
