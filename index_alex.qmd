@@ -457,13 +457,13 @@ Charred crumbs of "unleavened flat bread-like products" found in modern day Jord
 Deb - 80s/90s movies
 :::
 
-Which of the following grains is not typically used for contemporary western breadmaking?
+Which of the following films would not have been on the shelves on opening day of the first Blockbuster?
 
 :::{.incremental}
-a. Spelt
-b. Emmer
-c. Durum
-d. Fife
+a. Breakfast Club
+b. 9 to 5
+c. Die Hard
+d. E.T. the Extra-Terrestrial
 :::
 
 ## Question 2
@@ -472,7 +472,7 @@ d. Fife
 Deb - 80s/90s movies
 :::
 
-Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
+This film shares the record for most academy awards won by a single film.
 
 ## Question 3
 
@@ -480,7 +480,7 @@ Baker's yeast functions by converting the fermentable sugars present in the doug
 Deb - 80s/90s movies
 :::
 
-The following 1980s movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
+The following 1980s movies are at least partially set in a future year and are chronologically sorted by this year from oldest to latest. Insert Y2k (year 2000) in this list.
 
 :::{.incremental}
 - Escape from New York
@@ -495,7 +495,7 @@ The following 1980s movies are at least partially set in (or reference) a future
 Deb - 80s/90s movies
 :::
 
-What year is Terminator sent back in time from?
+Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars: Episode I – The Phantom Menace came out in 1999. What was the difference in their worldwide gross?
 
 ## Answer 1
 
@@ -503,12 +503,12 @@ What year is Terminator sent back in time from?
 Deb - 80s/90s movies
 :::
 
-Which of the following grains is not typically used for contemporary western breadmaking?
+Which of the following films would not have been on the shelves on opening day of the first Blockbuster?
 
 :::{.incremental}
+**c. Die Hard 1988**
 
-**c. Durum**
-
+Blockbuster opened in 1985
 :::
 
 ## Answer 2
@@ -517,10 +517,11 @@ Which of the following grains is not typically used for contemporary western bre
 Deb - 80s/90s movies
 :::
 
-Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
+
+This film shares the record for most academy awards won by a single film.
 
 :::{.incremental}
-**CO2 and ethanol**
+**Titanic** 11 awards tied with Ben-Hur and The Lord of the Rings: The Return of the King 
 :::
 
 ## Answer 3
@@ -547,9 +548,10 @@ The following movies are at least partially set in (or reference) a future year 
 Deb - 80s/90s movies
 :::
 
-What year is Terminator sent back in time from?
+Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars: Episode I – The Phantom Menace came out in 1999. What was the difference in their worldwide gross?
 
 :::{.incremental}
-2029
+Episode V - Episode I
+924 317 558 - 538 375 067 = 385 942 491
 :::
 
