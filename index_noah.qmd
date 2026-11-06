@@ -457,6 +457,112 @@ With a total of 10 years on the air and a reputation as one of TV's most-watched
 - **73**
 :::
 
+# Charlene: Old/New Country Music {.content-background background-image="./static/charlene.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The Academy of Country Music Awards distinguishes certain artists with their *Triple-Crown Award*, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have **not** been bestowed this honor?
+
+:::{.incremental}
+a. The Chicks/Dixie Chicks
+b. Carrie Underwood
+c. Keith Urban
+d. Brooks & Dunn
+:::
+
+## Question 2
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+Where was Shania Twain born?
+
+## Question 3
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+These programming languages are sorted by release date:
+
+:::{.incremental}
+a. C++
+b. Python
+c. Java
+d. Powershell
+:::
+
+Place the following programming language in this order:
+
+:::{.incremental}
+e. R
+:::
+
+## Question 4
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was *Fiddlin' John Carson* with **Little Log Cabin in the Lane**. When was this recording made?
+
+## Answer 1
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The Academy of Country Music Awards distinguishes certain artists with their *Triple-Crown Award*, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have **not** been bestowed this honor?
+
+:::{.incremental}
+a. **The Chicks/Dixie Chicks**
+:::
+
+## Answer 2
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+Where was Shania Twain born?
+
+:::{.incremental}
+- **Windsor, ON**
+:::
+
+## Answer 3
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+These programming languages are sorted by release date.
+
+:::{.incremental}
+a. C++ (1983)
+b. Python (1991)
+e. **R (1993)**
+c. Java (1995)
+d. Powershell (2006)
+:::
+
+## Answer 4
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was *Fiddlin' John Carson* with **Little Log Cabin in the Lane**. When was this recording made?
+
+:::{.incremental}
+- ** June 14th, 1923**
+:::
+
 # Alex: R Programming Language {.content-background background-image="./static/alex.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
