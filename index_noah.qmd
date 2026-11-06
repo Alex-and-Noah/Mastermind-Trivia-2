@@ -350,6 +350,113 @@ In which year was Portland cement invented?
 - **1824**
 :::
 
+# Natalie: Friends {.content-background background-image="./static/natalie.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Natalie - Friends
+:::
+
+At which school does Ross teach?
+
+:::{.incremental}
+a. Columbia University
+b. Cornell University
+c. New York University
+d. Syracuse University
+:::
+
+## Question 2
+
+::: footer
+Natalie - Friends
+:::
+
+During a game of trivia, what did Rachel incorrectly guess as the name of Chandler's job?
+
+## Question 3
+
+::: footer
+Natalie - Friends
+:::
+
+The following men are listed in chronological order of when Phoebe dated them:
+
+:::{.incremental}
+a. Ryan
+b. Robert
+c. Sergei
+d. Jake
+:::
+
+Place the following man in this order:
+
+:::{.incremental}
+e. Vince
+:::
+
+## Question 4
+
+::: footer
+Natalie - Friends
+:::
+
+With a total of 10 years on the air and a reputation as one of TV's most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?
+
+
+## Answer 1
+
+::: footer
+Natalie - Friends
+:::
+
+At which school does Ross teach?
+
+:::{.incremental}
+c. **New York University**
+:::
+
+## Answer 2
+
+::: footer
+Natalie - Friends
+:::
+
+During a game of trivia, what did Rachel incorrectly guess as the name of Chandler's job?
+
+:::{.incremental}
+- **Transponster**
+:::
+
+## Answer 3
+
+::: footer
+Natalie - Friends
+:::
+
+The following men are listed in chronological order of when Phoebe dated them:
+
+:::{.incremental}
+a. Ryan (S2, E23)
+b. Robert (S3, E13)
+c. Sergei (S3, E15)
+e. **Vince (S3, E23)**
+d. Jake (S7, E17)
+:::
+
+## Answer 4
+
+::: footer
+Natalie - Friends
+:::
+
+With a total of 10 years on the air and a reputation as one of TV's most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?
+
+:::{.incremental}
+- **73**
+:::
+
 # Alex: R Programming Language {.content-background background-image="./static/alex.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
@@ -425,8 +532,8 @@ Alex - R programming language
 Why is the R programming language named as such? (Two answers, 0.5 points each)
 
 :::{.incremental}
-1. **R is the shared first initial of the language's authors.**
-2. **R comes after S in the alphabet (R is a sucessor of the language S)**
+1. **R is the shared first initial of the language's authors**
+2. **R comes after S in the alphabet (R is a successor of the language S)**
 :::
 
 ## Answer 3

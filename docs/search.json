@@ -32,7 +32,7 @@
     "href": "index_noah.html#question-2",
     "title": "Mastermind Trivia",
     "section": "Question 2",
-    "text": "Question 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate have of Port Royal was initially founded by which country?"
+    "text": "Question 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate haven of Port Royal was initially founded by which country?"
   },
   {
     "objectID": "index_noah.html#question-3",
@@ -74,7 +74,7 @@
     "href": "index_noah.html#answer-2",
     "title": "Mastermind Trivia",
     "section": "Answer 2",
-    "text": "Answer 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate have of Port Royal was initially founded by which country?\n\nSpain"
+    "text": "Answer 2\n\nMark - The Golden Age of Piracy\n\nThe famous pirate haven of Port Royal was initially founded by which country?\n\nSpain"
   },
   {
     "objectID": "index_noah.html#answer-3",
@@ -277,28 +277,28 @@
     "href": "index_noah.html#question-1-3",
     "title": "Mastermind Trivia",
     "section": "Question 1",
-    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
+    "text": "Question 1\n\nNatalie - Friends\n\nAt which school does Ross teach?\n\nColumbia University\nCornell University\nNew York University\nSyracuse University"
   },
   {
     "objectID": "index_noah.html#question-2-3",
     "href": "index_noah.html#question-2-3",
     "title": "Mastermind Trivia",
     "section": "Question 2",
-    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
+    "text": "Question 2\n\nNatalie - Friends\n\nDuring a game of trivia, what did Rachel incorrectly guess as the name of Chandler’s job?"
   },
   {
     "objectID": "index_noah.html#question-3-3",
     "href": "index_noah.html#question-3-3",
     "title": "Mastermind Trivia",
     "section": "Question 3",
-    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
+    "text": "Question 3\n\nNatalie - Friends\n\nThe following men are listed in chronological order of when Phoebe dated them:\n\nRyan\nRobert\nSergei\nJake\n\nPlace the following man in this order:\n\nVince"
   },
   {
     "objectID": "index_noah.html#question-4-3",
     "href": "index_noah.html#question-4-3",
     "title": "Mastermind Trivia",
     "section": "Question 4",
-    "text": "Question 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
+    "text": "Question 4\n\nNatalie - Friends\n\nWith a total of 10 years on the air and a reputation as one of TV’s most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?"
   },
   {
     "objectID": "index_noah.html#question-5-3",
@@ -319,28 +319,28 @@
     "href": "index_noah.html#answer-1-3",
     "title": "Mastermind Trivia",
     "section": "Answer 1",
-    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
+    "text": "Answer 1\n\nNatalie - Friends\n\nAt which school does Ross teach?\n\nNew York University"
   },
   {
     "objectID": "index_noah.html#answer-2-3",
     "href": "index_noah.html#answer-2-3",
     "title": "Mastermind Trivia",
     "section": "Answer 2",
-    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors.\nR comes after S in the alphabet (R is a sucessor of the language S)"
+    "text": "Answer 2\n\nNatalie - Friends\n\nDuring a game of trivia, what did Rachel incorrectly guess as the name of Chandler’s job?\n\nTransponster"
   },
   {
     "objectID": "index_noah.html#answer-3-3",
     "href": "index_noah.html#answer-3-3",
     "title": "Mastermind Trivia",
     "section": "Answer 3",
-    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
+    "text": "Answer 3\n\nNatalie - Friends\n\nThe following men are listed in chronological order of when Phoebe dated them:\n\nRyan (S2, E23)\nRobert (S3, E13)\nSergei (S3, E15)\nVince (S3, E23)\nJake (S7, E17)"
   },
   {
     "objectID": "index_noah.html#answer-4-3",
     "href": "index_noah.html#answer-4-3",
     "title": "Mastermind Trivia",
     "section": "Answer 4",
-    "text": "Answer 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25623"
+    "text": "Answer 4\n\nNatalie - Friends\n\nWith a total of 10 years on the air and a reputation as one of TV’s most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?\n\n73"
   },
   {
     "objectID": "index_noah.html#answer-5-3",
@@ -1405,5 +1405,61 @@
     "title": "Mastermind Trivia",
     "section": "Answer 4",
     "text": "Answer 4\n\nJenny - 80s Sitcoms\n\nHow many episodes are there of Cheers and its spin off show Fraser?\n275 + 264 = 539"
+  },
+  {
+    "objectID": "index_noah.html#question-1-4",
+    "href": "index_noah.html#question-1-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
+  },
+  {
+    "objectID": "index_noah.html#question-2-4",
+    "href": "index_noah.html#question-2-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
+  },
+  {
+    "objectID": "index_noah.html#question-3-4",
+    "href": "index_noah.html#question-3-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
+  },
+  {
+    "objectID": "index_noah.html#question-4-4",
+    "href": "index_noah.html#question-4-4",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1-4",
+    "href": "index_noah.html#answer-1-4",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
+  },
+  {
+    "objectID": "index_noah.html#answer-2-4",
+    "href": "index_noah.html#answer-2-4",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors\nR comes after S in the alphabet (R is a successor of the language S)"
+  },
+  {
+    "objectID": "index_noah.html#answer-3-4",
+    "href": "index_noah.html#answer-3-4",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
+  },
+  {
+    "objectID": "index_noah.html#answer-4-4",
+    "href": "index_noah.html#answer-4-4",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25623"
   }
 ]
