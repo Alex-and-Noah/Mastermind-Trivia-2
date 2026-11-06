@@ -450,7 +450,7 @@ Charred crumbs of "unleavened flat bread-like products" found in modern day Jord
 :::
 
 
-# Deb: 80s-90s movies {.content-background background-image="static/noah.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Deb: 80s-90s movies {.content-background background-image="static/deb.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
@@ -556,12 +556,12 @@ Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars:
 924 317 558 (Episode V) - 538 375 067 (Episode I) = 385 942 491
 :::
 
-# Kenda's friend: California {.content-background background-image="static/murdoch.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Michelle: California {.content-background background-image="static/michelle.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-California
+Michelle - California
 :::
 
 Which of the following people from previous trivia rounds is not from California?
@@ -576,7 +576,7 @@ d. John Stamos
 ## Question 2
 
 ::: footer
-California
+Michelle - California
 :::
 
 Which fault was to blame for the 1906 San Fransisco earthquake?
@@ -584,7 +584,7 @@ Which fault was to blame for the 1906 San Fransisco earthquake?
 ## Question 3
 
 ::: footer
-California
+Michelle - California
 :::
 
 These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
@@ -600,7 +600,7 @@ These California themed events are listed in chronological order. Insert the con
 ## Question 4
 
 ::: footer
-California
+Michelle - California
 :::
 
 The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847?
@@ -627,14 +627,10 @@ Which fault was to blame for the 1906 San Fransisco earthquake?
 **San Andreas Fault**
 :::
 
-::: footer
-California
-:::
-
 ## Answer 3
 
 ::: footer
-California
+Michelle - California
 :::
 
 These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
@@ -651,7 +647,7 @@ These California themed events are listed in chronological order. Insert the con
 ## Answer 4
 
 ::: footer
-California
+Michelle - California
 :::
 
 The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847
@@ -660,3 +656,102 @@ The iconic California-bound Donner party became snowbound and eventually resorte
 - **47**
 :::
 
+# Kenda: Canada {.content-background background-image="static/kenda.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Kenda - Canada
+:::
+
+Which of the following nobel laureates is not Canadian?
+
+:::{.incremental}
+a. Alice Munroe
+b. Donna Strickland
+c. Claudia Goldin
+d. Lester B. Pearson
+:::
+
+## Question 2
+
+::: footer
+Kenda - Canada
+:::
+
+Which provincial/territorial capital is closest to the tallest mountain in Canada?
+
+## Question 3
+
+::: footer
+Kenda - Canada
+:::
+
+
+These Canadian milestones are listed in chronological order. Insert the addition of Nunavut as a territory in this list.
+
+:::{.incremental}
+- Canada's total fertility rate drops below 2 babies per female
+- Quebec hosts its second separation referendum
+- Canada's population surpasses 30 million
+- Millenials outnumbered Baby Boomers
+:::
+
+
+## Question 4
+
+::: footer
+Kenda - Canada
+:::
+
+How many Olympic medals (summer and winter) has Canada won?
+
+## Answer 1
+
+Which of the following nobel laureates is not Canadian?
+
+:::{.incremental}
+c. Claudia Goldin
+:::
+
+## Answer 2
+
+::: footer
+Kenda - Canada
+:::
+
+Which provincial/territorial capital is closest to the tallest mountain in Canada?
+
+:::{.incremental}
+**White Horse, Yukon**
+
+Mount Logan
+:::
+
+## Answer 3
+
+::: footer
+Kenda - Canada
+:::
+
+These Canadian demographic milestones are listed in chronological order. Insert the addition of Nunavut as a territory in this list.
+
+:::{.incremental}
+- Canada's total fertility rate drops below 2 babies per female (1972)
+- Quebec hosts its second separation referendum (1995)
+- Nunavut becomes a territory (1999)
+- Canada's population surpasses 30 million (2001)
+- Millenials outnumbered Baby Boomers (2023)
+:::
+
+## Answer 4
+
+::: footer
+Kenda - Canada
+:::
+
+How many Olympic medals (summer and winter) has Canada won?
+
+:::{.incremental}
+- **240 (winter) + 351 (summer)**
+:::
