@@ -669,3 +669,72 @@ An *R package* is a separate collection of code bundled together as a single uni
 :::{.incremental}
 - **25688**
 :::
+
+# Tiebreaker: The Year 1961 {.content-background background-image="./static/tiebreaker.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Which of these famous people were **not** born in 1961?
+
+:::{.incremental}
+a. Jim Carrey
+b. Princess Diana
+c. Billy Ray
+d. Julia Louis-Dreyfus
+:::
+
+## Question 2
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Who was the Prime Minister on the day Jackie was born?
+
+## Question 3
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+In 1961, the BC Government purchased the BC Electric Company to be merged with the provincially owned BC Power Commission to create today's BC Hydro. What were the combined ages (in years) of the BC Electric Company and the BC Power Commission when this happened?
+
+## Answer 1
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Which of these famous people were **not** born in 1961?
+
+:::{.incremental}
+a. **Jim Carrey**
+:::
+
+## Answer 2
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Who was the Prime Minister on the day Jackie was born?
+
+:::{.incremental}
+- **John Diefenbaker**
+:::
+
+## Answer 3
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+In 1961, the BC Government purchased the BC Electric Company to be merged with the provincially owned BC Power Commission to create today's BC Hydro. What were the combined ages (in years) of the BC Electric Company and the BC Power Commission when this happened?
+
+:::{.incremental}
+- **70 (BC Electric Company est. 1897, BC Power Commission est. 1945 so 64 + 16 = 70)**
+:::

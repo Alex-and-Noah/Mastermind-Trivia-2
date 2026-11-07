@@ -5,7 +5,6 @@ format:
     transition: slide
     background-transition: fade
     theme: solarized
-    incremental: true
 css: styles.css
 ---
 
@@ -22,176 +21,1436 @@ Below are the types of questions you'll see:
 2. Open
     - It gets a little harder when you don't have options anymore
 3. Ranking
-    - Can you put them in the right order?
-
----
-
-## About the questions, cont'd {.smaller}
-
-4. Sound-bite
-    - I'll play a sound clip and you'll have to answer the question related to it
-5. Range
+    - Can you place facts in the correct order?
+4. Range
     - Unlike the other questions so far, whoever is closest will get this point
-6. Who/What am I?
-    - You'll get 3 clues, if you can get the person/object on the first clue that'll be worth 3 points, 2 for the second clue, and 1 for the last clue--pending you get the right answer
 
 ## About the scoring
 
 We'll calculate the differentials between the mastermind and the rest of the team--whoever has the highest differential wins.
 
-However, if there is a tie I have some OT questions to break it.
+However, if there is a tie we have some OT questions to break it.
 
-# Alex: Veep {.content-background background-image="" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+# Noah: Bread Making {.content-background background-image="static/noah.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
 
 ## Question 1
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of the following grains is not typically used for contemporary western breadmaking?
 
 :::{.incremental}
-a. Catherine O'Hara for Schitt's Creek as Moira Rose
-b. Phoebe Waller-Bridge for Fleabag
-c. Natasha Lyonne for Russian Doll as Nadia
-d. Christina Applegate for Dead to Me as Jen
+a. Spelt
+b. Emmer
+c. Durum
+d. Fife
 :::
 
 ## Question 2
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
 
 ## Question 3
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-List these guests in chronological order of appearance.
+Insert the invention of a bread slicing machine between these chronological events:
 
 :::{.incremental}
-a. Patton Oswalt as Teddy Sykes
-b. Rhea Seehorn as Michelle York
-c. Hugh Laurie as Tom James
-d. Christopher Meloni as Ray Whelans
-e. Clea DuVall as Majorie Palmiotti
+- Insulin is invented
+- Mussolini comes to power in Italy
+- The Persons Case establishes women as legal "persons" in Canada
+- Prohibition ends in the US
 :::
 
 ## Question 4
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-What is Selina Meyer referring to in this clip?
-
-## Question 5
-
-::: footer
-Alex - Veep
-:::
-
-Throughout the entire series, how many days did Selina Meyer serve as president?
-
-## Question 6
-
-::: footer
-Alex - Veep
-:::
-
-Who/what am I?
-
-::: {.incremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
-:::
+Charred crumbs of "unleavened flat bread-like products" found in modern day Jordan are believed to be the oldest evidence of bread making discovered to date. How old are these charred crumbs?
 
 ## Answer 1
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-Julia Louis-Dreyfus won the Primetime Emmy for Outstanding Lead Actress in a Comedy Series due to her performance in each of the first 6 seasons of Veep. She was nominated for the 7th season but lost to whom?
+Which of the following grains is not typically used for contemporary western breadmaking?
 
 :::{.incremental}
-- **b. Phoebe Waller-Bridge for Fleabag**
+
+**c. Durum**
+
 :::
 
 ## Answer 2
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-What does Vice President Selina Meyer wear in the first scene of every first episode of each season?
+Baker's yeast functions by converting the fermentable sugars present in the dough into two substances which in turn causes the bread to rise. What are these two substances?
 
 :::{.incremental}
-- **A red dress**
+**CO2 and ethanol**
 :::
 
 ## Answer 3
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-List these guests in chronological order of appearance.
+
+Insert the invention of a bread slicing machine between these chronological events:
 
 :::{.incremental}
-d. **Christopher Meloni as Ray Whelans (S3E6)**
-a. **Patton Oswalt as Teddy Sykes (S4E1)**
-c. **Hugh Laurie as Tom James (S4E5)**
-e. **Clea DuVall as Majorie Palmiotti (S5E1)**
-b. **Rhea Seehorn as Michelle York (S7E2)**
+- Insulin is invented 1921
+- Mussolini comes to power in Italy 1922
+- Bread slicing machine invented 1928
+- The Persons Case establishes women as legal "persons" in Canada 1929
+- Prohibition ends in the US 1933
 :::
 
 ## Answer 4
 
 ::: footer
-Alex - Veep
+Noah - Bread Making
 :::
 
-What is Selina Meyer referring to in this clip?
+Charred crumbs of "unleavened flat bread-like products" found in modern day Jordan are believed to be the oldest evidence of bread making discovered to date. How old are these charred crumbs?
 
 :::{.incremental}
-- **Catherine's hair**
+14 500 years
 :::
 
-## Answer 5
+
+# Mark: The Golden Age of Piracy {.content-background background-image="./static/mark.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
 
 ::: footer
-Alex - Veep
+Mark - The Golden Age of Piracy
 :::
 
-Throughout the entire series, how many days did Selina Meyer serve as president?
+Which of these pirates was **not** part of the Flying Gang?
 
 :::{.incremental}
-- **1825**
+a. Bartholomew Roberts
+b. Samuel Bellamy
+c. Anne Bonny
+d. Edward England
 :::
 
-## Answer 6
+## Question 2
 
 ::: footer
-Alex - Veep
+Mark - The Golden Age of Piracy
 :::
 
-Who/what am I?
+The famous pirate haven of Port Royal was initially founded by which country?
 
-::: {.nonincremental}
-- I am once described as "[Selena's] two big, very busy webbed legs and feet"
-- Using me for too long may necessitate a visit from a masseur
-- Some may jokingly call you a *Kassi* if they saw you with me, which is a Finnish slang term for *testicles*
+## Question 3
+
+::: footer
+Mark - The Golden Age of Piracy
 :::
 
-<br>
+The following is a list of pirate ships ordered by least number of cannons to most:
 
 :::{.incremental}
-- **The Leviathan (Gary's bag)**
+a. Revenge (Stede Bonnet)
+b. Whydah (Samuel Bellamy)
+c. Adventure Galley (William Kidd)
+d. Fancy (Henry Every)
 :::
+
+Place the following ship in this list:
+
+:::{.incremental}
+e. Queen Anne's Revenge (Edward 'Blackbeard' Teach)
+:::
+
+## Question 4
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+According to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?
+
+## Answer 1
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+Which of these pirates was **not** part of the Flying Gang?
+
+:::{.incremental}
+a. **Bartholomew Roberts**
+:::
+
+## Answer 2
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The famous pirate haven of Port Royal was initially founded by which country?
+
+:::{.incremental}
+- **Spain**
+:::
+
+## Answer 3
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+The following is a list of pirate ships ordered by least number of cannons to most:
+
+:::{.incremental}
+a. Revenge (Stede Bonnet) - 10
+b. Whydah (Samuel Bellamy) - 28
+c. Adventure Galley (William Kidd) - 34
+e. **Queen Anne's Revenge (Edward 'Blackbeard' Teach) - 40**
+d. Fancy (Henry Every) - 46
+:::
+
+## Answer 4
+
+::: footer
+Mark - The Golden Age of Piracy
+:::
+
+According to a study by Forbes in 2008, Samuel Bellamy was the highest-earning pirate of all time. What was his total reported amassed wealth?
+
+:::{.incremental}
+- **$120 million**
+:::
+
+# Alex: R Programming Language {.content-background background-image="./static/alex.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Alex - R programming language
+:::
+
+Which of these is not a conference affiliated with R?
+
+:::{.incremental}
+a. R!sk
+b. PyRSquared
+c. Directions in Statistical Computing
+d. Cascadia R
+:::
+
+## Question 2
+
+::: footer
+Alex - R programming language
+:::
+
+Why is the R programming language named as such? (Two answers, 0.5 points each)
+
+## Question 3
+
+::: footer
+Alex - R programming language
+:::
+
+These programming languages are sorted by release date:
+
+:::{.incremental}
+a. C++
+b. Python
+c. Java
+d. Powershell
+:::
+
+Place the following programming language in this order:
+
+:::{.incremental}
+e. R
+:::
+
+## Question 4
+
+::: footer
+Alex - R programming language
+:::
+
+An *R package* is a separate collection of code bundled together as a single unit to be shared with other R users. As of November 7th, 2026 at 11:11am, how many R packages are on the CRAN (Comprehensive R Archive Network)?
+
+## Answer 1
+
+::: footer
+Alex - R programming language
+:::
+
+Which of these is not a conference affiliated with R?
+
+:::{.incremental}
+b. **PyRSquared**
+:::
+
+## Answer 2
+
+::: footer
+Alex - R programming language
+:::
+
+Why is the R programming language named as such? (Two answers, 0.5 points each)
+
+:::{.incremental}
+1. **R is the shared first initial of the language's authors**
+2. **R comes after S in the alphabet (R is a successor of the language S)**
+:::
+
+## Answer 3
+
+::: footer
+Alex - R programming language
+:::
+
+These programming languages are sorted by release date:
+
+:::{.incremental}
+a. C++ (1983)
+b. Python (1991)
+e. **R (1993)**
+c. Java (1995)
+d. Powershell (2006)
+:::
+
+## Answer 4
+
+::: footer
+Alex - R programming language
+:::
+
+An *R package* is a separate collection of code bundled together as a single unit to be shared with other R users. As of November 7th, 2026 at 11:11am, how many R packages are on the CRAN (Comprehensive R Archive Network)?
+
+:::{.incremental}
+- **25688**
+:::
+
+# Kreag: Drag Race {.content-background background-image="static/kreag.png" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Kreag - Drag Race
+:::
+
+Which Queen started the tradition of writing a farewell message on the mirror after elimination?
+
+:::{.incremental}
+a. Delta Work
+b. Raven
+c. Sharon Needles
+d. Shangela
+:::
+
+## Question 2
+
+::: footer
+Kreag - Drag Race
+:::
+
+Rupaul closes each episode by saying "If you can't love yourself, how in the hell are you going to love somebody else?". Who inspired this saying?
+
+## Question 3
+
+::: footer
+Kreag - Drag Race
+:::
+
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs multiple times. Insert *Britney Spears* in this list ranked from most lip synced to least.
+
+:::{.incremental}
+- Lady Gaga
+- Kylie Minogue
+- Beyoncé
+- Dolly Parton
+:::
+
+## Question 4
+
+::: footer
+Kreag - Drag Race
+:::
+
+Approximately how much prize money has been awarded to contestants over the course of the show?
+
+## Answer 1
+
+::: footer
+Kreag - Drag Race
+:::
+
+Which Queen started the tradition of writing a farewell message on the mirror after elimination?
+
+:::{.incremental}
+**d. Shangela**
+:::
+
+## Answer 2
+
+::: footer
+Kreag - Drag Race
+:::
+
+Rupaul closes each episode by saying "If you can't love yourself, how in the hell are you going to love somebody else?". Who inspired this saying?
+
+:::{.incremental}
+**His mother**
+:::
+
+## Answer 3
+
+::: footer
+Kreag - Drag Race
+:::
+During an elimination, the queens must "lip sync for their lives". The following artists have been selected for lip syncs multiple times. Insert *Britney Spears* in this list ranked from most lip synced to least.
+
+:::{.incremental}
+a. Lady Gaga 15
+d. Kylie Minogue 13
+c. Beyoncé 11
+e. Britney Spears 9
+b. Dolly Parton 3
+:::
+
+## Answer 4
+
+::: footer
+Kreag - Drag Race
+:::
+
+Approximately how much prize money has been awarded to contestants over the course of the show?
+
+:::{.incremental}
+**Approx 7.5 million**
+:::
+
+# Michelle: California {.content-background background-image="static/michelle.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Michelle - California
+:::
+
+Which of the following people from other trivia rounds is not from California?
+
+:::{.incremental}
+a. Tyra Banks
+b. Rupaul
+c. Betty White
+d. John Stamos
+:::
+
+## Question 2
+
+::: footer
+Michelle - California
+:::
+
+Which fault was to blame for the 1906 San Fransisco earthquake?
+
+## Question 3
+
+::: footer
+Michelle - California
+:::
+
+These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
+
+:::{.incremental}
+- Population of California surpasses 1 million
+- Women in California are granted the right to vote
+- Los Angeles hosts the summer olympics
+- Steinbeck publishes the Grapes of Wrath
+
+:::
+
+## Question 4
+
+::: footer
+Michelle - California
+:::
+
+The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847?
+
+## Answer 1
+
+Which of the following characters from other trivia rounds is not from California?
+
+:::{.incremental}
+
+**c. Betty White**
+
+:::
+
+## Answer 2
+
+::: footer
+California
+:::
+
+Which fault was to blame for the 1906 San Fransisco earthquake?
+
+:::{.incremental}
+**San Andreas Fault**
+:::
+
+## Answer 3
+
+::: footer
+Michelle - California
+:::
+
+These California themed events are listed in chronological order. Insert the construction of the HOLLYWOOD sign in this list.
+
+:::{.incremental}
+- Population of California surpasses 1 million 1890
+- Women in California are granted the right to vote 1911
+- Hollywood sign put up 1923
+- Los Angeles hosts the summer olympics 1932
+- Steinbeck publishes the Grapes of Wrath 1939
+
+:::
+
+## Answer 4
+
+::: footer
+Michelle - California
+:::
+
+The iconic California-bound Donner party became snowbound and eventually resorted to cannibalism and murder. Initially, 85 set out to California in Spring 1846. How many were found alive by a rescue party in February 1847
+
+:::{.incremental}
+- **47**
+:::
+
+# Charlene: Old/New Country Music {.content-background background-image="./static/charlene.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The Academy of Country Music Awards distinguishes certain artists with their *Triple-Crown Award*, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have **not** been bestowed this honor?
+
+:::{.incremental}
+a. The Chicks/Dixie Chicks
+b. Carrie Underwood
+c. Keith Urban
+d. Brooks & Dunn
+:::
+
+## Question 2
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+When Shania Twain released her hit album *Up!* in 2002, there were actually three versions of the album released: a pop version, a country version and a version in the style of Indian film music. Moreover, the corresponding album discs were coloured based on their version. What colour is the disc for the country version of *Up!*?
+
+## Question 3
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+These instruments are sorted chronologically by when they were first included in Country music:
+
+:::{.incremental}
+a. Harmonica
+b. Steel Guitar
+c. Electric guitar
+d. Dobro
+:::
+
+Place the following instrument in this order:
+
+:::{.incremental}
+e. Drums
+:::
+
+## Question 4
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was **Little Log Cabin in the Lane** by **Fiddlin' John Carson**. When was this recording made?
+
+## Answer 1
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The Academy of Country Music Awards distinguishes certain artists with their *Triple-Crown Award*, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have **not** been bestowed this honor?
+
+:::{.incremental}
+a. **The Chicks/Dixie Chicks**
+:::
+
+## Answer 2
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+When Shania Twain released her hit album *Up!* in 2002, there were actually three versions of the album released: a pop version, a country version and a version in the style of Indian film music. Moreover, the corresponding album discs were coloured based on their version. What colour is the disc for the country version of *Up!*?
+
+:::{.incremental}
+- **Green (pop is red and Indian film music is blue)**
+:::
+
+## Answer 3
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+These instruments are sorted chronologically by when they were first included in Country music:
+
+:::{.incremental}
+a. Harmonica (Inception)
+b. Steel Guitar (1922)
+e. **Drums (1935)**
+c. Electric guitar (1938)
+d. Dobro (1939)
+:::
+
+## Answer 4
+
+::: footer
+Charlene - Old/New Country Music
+:::
+
+The first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was **Little Log Cabin in the Lane** by **Fiddlin' John Carson**. When was this recording made?
+
+:::{.incremental}
+- **June 14th, 1923**
+:::
+
+# Natalie: Friends {.content-background background-image="./static/natalie.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Natalie - Friends
+:::
+
+At which school does Ross teach?
+
+:::{.incremental}
+a. Columbia University
+b. Cornell University
+c. New York University
+d. Syracuse University
+:::
+
+## Question 2
+
+::: footer
+Natalie - Friends
+:::
+
+During a game of trivia, what did Rachel incorrectly guess as the name of Chandler's job?
+
+## Question 3
+
+::: footer
+Natalie - Friends
+:::
+
+The following men are listed in chronological order of when Phoebe dated them:
+
+:::{.incremental}
+a. Ryan
+b. Robert
+c. Sergei
+d. Jake
+:::
+
+Place the following man in this order:
+
+:::{.incremental}
+e. Vince
+:::
+
+## Question 4
+
+::: footer
+Natalie - Friends
+:::
+
+With a total of 10 years on the air and a reputation as one of TV's most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?
+
+
+## Answer 1
+
+::: footer
+Natalie - Friends
+:::
+
+At which school does Ross teach?
+
+:::{.incremental}
+c. **New York University**
+:::
+
+## Answer 2
+
+::: footer
+Natalie - Friends
+:::
+
+During a game of trivia, what did Rachel incorrectly guess as the name of Chandler's job?
+
+:::{.incremental}
+- **Transponster**
+:::
+
+## Answer 3
+
+::: footer
+Natalie - Friends
+:::
+
+The following men are listed in chronological order of when Phoebe dated them:
+
+:::{.incremental}
+a. Ryan (S2, E23)
+b. Robert (S3, E13)
+c. Sergei (S3, E15)
+e. **Vince (S3, E23)**
+d. Jake (S7, E17)
+:::
+
+## Answer 4
+
+::: footer
+Natalie - Friends
+:::
+
+With a total of 10 years on the air and a reputation as one of TV's most-watched sitcoms, Friends racked up an impressive number of high-profile guest stars in its time. According to an article by Bustle, how many celebrities have appeared on Friends?
+
+:::{.incremental}
+- **73**
+:::
+
+# Deb: 80s-90s movies {.content-background background-image="static/deb.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Which of the following films would not have been on the shelves on opening day of the first Blockbuster?
+
+:::{.incremental}
+a. Breakfast Club
+b. 9 to 5
+c. Die Hard
+d. E.T. the Extra-Terrestrial
+:::
+
+## Question 2
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+This film shares the record for most academy awards won by a single film.
+
+## Question 3
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+The following 1980s movies are at least partially set in a future year and are chronologically sorted by this year from oldest to latest. Insert 2026 in this list.
+
+:::{.incremental}
+- Escape from New York
+- Back to the Future Part II
+- Terminator
+- Bill & Ted's Excellent Adventure
+:::
+
+## Question 4
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars: Episode I – The Phantom Menace came out in 1999. What was the difference in their worldwide gross?
+
+## Answer 1
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Which of the following films would not have been on the shelves on opening day of the first Blockbuster?
+
+:::{.incremental}
+**c. Die Hard 1988**
+
+> Blockbuster opened in 1985
+:::
+
+## Answer 2
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+
+This film shares the record for most academy awards won by a single film.
+
+:::{.incremental}
+**Titanic**
+
+> 11 awards tied with Ben-Hur and The Lord of the Rings: The Return of the King 
+:::
+
+## Answer 3
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+
+The following movies are at least partially set in (or reference) a future year and are chronologically sorted by this year from oldest to latest. Insert 2026 in this list.
+
+
+:::{.incremental}
+- Escape from New York 1997
+- Back to the Future Part II 2015
+- Today 2026
+- Terminator 2029
+- Bill & Ted's Excellent Adventure 2688
+:::
+
+## Answer 4
+
+::: footer
+Deb - 80s/90s movies
+:::
+
+Star Wars: Episode V - The Empire Strikes Back came out in 1980 while Star Wars: Episode I – The Phantom Menace came out in 1999. What was the difference in their worldwide gross?
+
+:::{.incremental}
+924 317 558 (Episode V) - 538 375 067 (Episode I) = 385 942 491
+:::
+
+# Murdoch: America's Next Top Model {.content-background background-image="static/murdoch.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Murdoch - ANTM
+:::
+
+Each cycle features an international destination for the second half of the cycle. Which city was never featured?
+
+:::{.incremental}
+a. Cape Town
+b. Macau
+c. Copenhagen
+d. Milan
+:::
+
+## Question 2
+
+::: footer
+Murdoch - ANTM
+:::
+
+In Cycle 4 (2005) a contestant was treated for what members of the model house believed to be a flesh eating bacteria but was actually a simple staph infection. What real world medical emergency prompted the flesh-eating bacteria panic?
+
+## Question 3
+
+::: footer
+Murdoch - ANTM
+:::
+
+Insert this iconic ANTM moment in chronological order in the following list:
+
+The first openly trans model competes on ANTM
+
+:::{.incremental}
+- Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy
+- Tyra orders cosmetic dental surgery for a contestant
+- Tyra coins the phrase "smize"
+- ANTM All Stars cycle
+:::
+
+## Question 4
+
+::: footer
+Murdoch - ANTM
+:::
+Throughout the entire show, how many panels were hosted?
+
+## Answer 1
+
+Each cycle features an international destination for the second half of the cycle. Which city was never featured?
+
+:::{.incremental}
+**c. Copenhagen**
+:::
+
+## Answer 2
+
+::: footer
+Murdoch - ANTM
+:::
+
+
+In Cycle 4 (2005) a contestant was treated for what members of the model house believed to be a flesh eating bacteria but was actually a simple staph infection. What real world medical emergency prompted the flesh-eating bacteria panic?
+
+:::{.incremental}
+**MRSA**
+:::
+
+
+::: footer
+Murdoch - ANTM
+:::
+
+## Answer 3
+
+::: footer
+Murdoch - ANTM
+:::
+
+Insert this iconic ANTM moment in chronological order in the following list:
+
+:::{.incremental}
+- Tyra Banks "Never in my life have I yelled at a girl like this" soliloquy Cycle 4
+- Tyra orders cosmetic dental surgery for a contestant (first time) Cycle 6
+- The first openly trans model competes on ANTM Cycle 11
+- Tyra coins the phrase "smize" Cycle 13
+- ANTM All Stars cycle Cycle 17
+:::
+
+## Answer 4
+
+::: footer
+Murdoch - ANTM
+:::
+
+Throughout the entire show, how many panels were hosted?
+
+:::{.incremental}
+- **315**
+:::
+
+# Jackie: Classic Rock {.content-background background-image="./static/jackie.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Jackie - Classic Rock
+:::
+
+Which classic rock album was the quickest (not first) to reach 1 million sales in Canada?
+
+:::{.incremental}
+a. Fleetwood Mac - Rumours
+b. Bon Jovi - Slippery When Wet
+c. AC/DC - Back in Black
+d. Def Leppard - Hysteria
+:::
+
+## Question 2
+
+::: footer
+Jackie - Classic Rock
+:::
+
+Who was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?
+
+## Question 3
+
+::: footer
+Jackie - Classic Rock
+:::
+
+These bands are sorted by release date of their first studio album:
+
+:::{.incremental}
+a. The Rolling Stones
+b. The Who
+c. Led Zeppelin
+d. Styx
+:::
+
+Place the following band in this order:
+
+:::{.incremental}
+e. Pink Floyd
+:::
+
+## Question 4
+
+::: footer
+Jackie - Classic Rock
+:::
+
+As of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?
+
+## Answer 1
+
+::: footer
+Jackie - Classic Rock
+:::
+
+Which classic rock album was the quickest (not first) to reach 1 million sales in Canada?
+
+:::{.incremental}
+a. **Fleetwood Mac - Rumours (1 year and 1 month)**
+:::
+
+## Answer 2
+
+::: footer
+Jackie - Classic Rock
+:::
+
+Who was the first Canadian singer or band inducted in the Rock and Roll Hall of Fame?
+
+:::{.incremental}
+- **The Band (1994)**
+:::
+
+## Answer 3
+
+::: footer
+Jackie - Classic Rock
+:::
+
+These bands are sorted by release date of their first studio album:
+
+:::{.incremental}
+a. The Rolling Stones (1964)
+b. The Who (1965)
+e. **Pink Floyd (1967)**
+c. Led Zeppelin (1969)
+d. Styx (1972)
+:::
+
+## Answer 4
+
+::: footer
+Jackie - Classic Rock
+:::
+
+As of November 3rd, 2026, according to setlist.fm, The Beach Boys have played the most concerts of any rock band ever. How many concerts did they play?
+
+:::{.incremental}
+- **7612**
+:::
+
+# Ken: Construction tools, equipment and processes {.content-background background-image="./static/ken.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+Which of these are not a real product?
+
+:::{.incremental}
+a. Makita 40Vmax XGT Microwave Oven
+b. Ryobi 60V 3-Speed Kitchen Blender
+c. Milwuakee M12 Soldering Iron
+d. Dewalt Jobsite Pro Water-Resistant Wearable Speaker
+:::
+
+## Question 2
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
+
+## Question 3
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+These woods are ranked from order of least hard to most hard (Janka hardness test).
+
+:::{.incremental}
+a. Douglas Fir
+b. Mahogany
+c. Black Walnut
+d. Birch
+:::
+
+Place the following wood in this order:
+
+:::{.incremental}
+e. Teak
+:::
+
+## Question 4
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+In which year was Portland cement invented?
+
+## Answer 1
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+Which of these are not a real product?
+
+:::{.incremental}
+- **b. Ryobi 60V 3-Speed Kitchen Blender**
+:::
+
+## Answer 2
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+What was the first company in the world to launch a power tool that runs on a lithium-ion battery?
+
+:::{.incremental}
+- **Bosch IXO, 2003**
+:::
+
+## Answer 3
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+These woods are ranked from order of least hard to most hard (Janka hardness test).
+
+:::{.incremental}
+a. Douglas Fir (660)
+b. Mahogany (900)
+c. Black Walnut (1010)
+e. **Teak (1070)**
+d. Birch (1260)
+:::
+
+## Answer 4
+
+::: footer
+Ken - Construction tools, equipment and processes
+:::
+
+In which year was Portland cement invented?
+
+:::{.incremental}
+- **1824**
+:::
+
+# Jenny: 80s Sitcoms {.content-background background-image="static/jenny.jpeg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+a. David
+b. Curtis
+c. Gordon
+d. Andrew
+:::
+
+## Question 2
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+## Question 3
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+Insert Mum (Jackie McSween) age now in this list of Golden Girls ordered from youngest to oldest in season 1.
+
+:::{.incremental}
+- Blanche Devereaux (Rue McClanahan)
+- Dorothy Zbornak (Bea Arthur)
+- Rose Nylund (Betty White)
+- Sophia Petrillo (Estelle Getty)
+:::
+
+## Question 4
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+## Answer 1
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+ALF from ALF stands for Alien Life Form. What is ALF's real name?
+
+:::{.incremental}
+**c. Gordon Shumway**
+:::
+
+## Answer 2
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+What is the name of Uncle Jesse's (John Stamos) band in Full House?
+
+:::{.incremental}
+**Jesse and the Rippers**
+:::
+
+## Answer 3
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+Insert Mum (Jackie McSween) age now in this list of Golden Girls ordered from youngest to oldest in season 1.
+
+:::{.incremental}
+- Blanche Devereaux (Rue McClanahan): 53
+- Dorothy Zbornak (Bea Arthur): 53
+- Rose Nylund (Betty White): 55
+- Mum (Jackie McSween): 65
+- Sophia Petrillo (Estelle Getty): 80
+:::
+## Answer 4
+
+::: footer
+Jenny - 80s Sitcoms
+:::
+
+How many episodes are there of Cheers and its spin off show Fraser?
+
+
+:::{.incremental}
+**275 + 264 = 539**
+:::
+
+# Kenda: Canada {.content-background background-image="static/kenda.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Kenda - Canada
+:::
+
+Which of the following nobel laureates is not Canadian?
+
+:::{.incremental}
+a. Alice Munroe
+b. Donna Strickland
+c. Claudia Goldin
+d. Lester B. Pearson
+:::
+
+## Question 2
+
+::: footer
+Kenda - Canada
+:::
+
+Which provincial/territorial capital is closest to the tallest mountain in Canada?
+
+## Question 3
+
+::: footer
+Kenda - Canada
+:::
+
+
+These Canadian milestones are listed in chronological order. Insert the addition of Nunavut as a territory in this list.
+
+:::{.incremental}
+- Canada's total fertility rate drops below 2 babies per female
+- Quebec hosts its second separation referendum
+- Canada's population surpasses 30 million
+- Millenials outnumbered Baby Boomers
+:::
+
+
+## Question 4
+
+::: footer
+Kenda - Canada
+:::
+
+How many Olympic medals (summer and winter) has Canada won?
+
+## Answer 1
+
+Which of the following nobel laureates is not Canadian?
+
+:::{.incremental}
+c. Claudia Goldin
+:::
+
+## Answer 2
+
+::: footer
+Kenda - Canada
+:::
+
+Which provincial/territorial capital is closest to the tallest mountain in Canada?
+
+:::{.incremental}
+**White Horse, Yukon**
+
+Mount Logan
+:::
+
+## Answer 3
+
+::: footer
+Kenda - Canada
+:::
+
+These Canadian demographic milestones are listed in chronological order. Insert the addition of Nunavut as a territory in this list.
+
+:::{.incremental}
+- Canada's total fertility rate drops below 2 babies per female (1972)
+- Quebec hosts its second separation referendum (1995)
+- Nunavut becomes a territory (1999)
+- Canada's population surpasses 30 million (2001)
+- Millenials outnumbered Baby Boomers (2023)
+:::
+
+## Answer 4
+
+::: footer
+Kenda - Canada
+:::
+
+How many Olympic medals (summer and winter) has Canada won?
+
+:::{.incremental}
+- **240 (winter) + 351 (summer) = 591**
+:::
+
+# Tiebreaker: The Year 1961 {.content-background background-image="./static/tiebreaker.jpg" background-size="auto 100%" style="width:fit-content;margin-top:25%;padding-left:40px;padding-right:40px;padding-top:5px;padding-bottom:5px;border:2px solid #002b36"}
+
+## Question 1
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Which of these famous people were **not** born in 1961?
+
+:::{.incremental}
+a. Jim Carrey
+b. Princess Diana
+c. Billy Ray
+d. Julia Louis-Dreyfus
+:::
+
+## Question 2
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Who was the Prime Minister on the day Jackie was born?
+
+## Question 3
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+In 1961, the BC Government purchased the BC Electric Company to be merged with the provincially owned BC Power Commission to create today's BC Hydro. What were the combined ages (in years) of the BC Electric Company and the BC Power Commission when this happened?
+
+## Answer 1
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Which of these famous people were **not** born in 1961?
+
+:::{.incremental}
+a. **Jim Carrey**
+:::
+
+## Answer 2
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+Who was the Prime Minister on the day Jackie was born?
+
+:::{.incremental}
+- **John Diefenbaker**
+:::
+
+## Answer 3
+
+::: footer
+Tiebreaker - The Year 1961
+:::
+
+In 1961, the BC Government purchased the BC Electric Company to be merged with the provincially owned BC Power Commission to create today's BC Hydro. What were the combined ages (in years) of the BC Electric Company and the BC Power Commission when this happened?
+
+:::{.incremental}
+- **70 (BC Electric Company est. 1897, BC Power Commission est. 1945 so 64 + 16 = 70)**
+:::
+
+# The end
+
+Thanks for playing!
