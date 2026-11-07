@@ -592,7 +592,7 @@
     "href": "index_noah.html#question-1-1",
     "title": "Mastermind Trivia",
     "section": "Question 1",
-    "text": "Question 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours\nBon Jovi - Slippery When Wet\nAC/DC - Back in Black\nDef Leppard - Hysteria"
+    "text": "Question 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest (not first) to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours\nBon Jovi - Slippery When Wet\nAC/DC - Back in Black\nDef Leppard - Hysteria"
   },
   {
     "objectID": "index_noah.html#question-2-1",
@@ -620,7 +620,7 @@
     "href": "index_noah.html#answer-1-1",
     "title": "Mastermind Trivia",
     "section": "Answer 1",
-    "text": "Answer 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours (1 year and 1 month)"
+    "text": "Answer 1\n\nJackie - Classic Rock\n\nWhich classic rock album was the quickest (not first) to reach 1 million sales in Canada?\n\nFleetwood Mac - Rumours (1 year and 1 month)"
   },
   {
     "objectID": "index_noah.html#answer-2-1",
@@ -760,55 +760,111 @@
     "href": "index_noah.html#question-1-4",
     "title": "Mastermind Trivia",
     "section": "Question 1",
-    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
+    "text": "Question 1\n\nCharlene - Old/New Country Music\n\nThe Academy of Country Music Awards distinguishes certain artists with their Triple-Crown Award, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have not been bestowed this honor?\n\nThe Chicks/Dixie Chicks\nCarrie Underwood\nKeith Urban\nBrooks & Dunn"
   },
   {
     "objectID": "index_noah.html#question-2-4",
     "href": "index_noah.html#question-2-4",
     "title": "Mastermind Trivia",
     "section": "Question 2",
-    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
+    "text": "Question 2\n\nCharlene - Old/New Country Music\n\nWhen Shania Twain released her hit album Up! in 2002, there were actually three versions of the album released: a pop version, a country version and a version in the style of Indian film music. Moreover, the corresponding album discs were coloured based on their version. What colour is the disc for the country version of Up!?"
   },
   {
     "objectID": "index_noah.html#question-3-4",
     "href": "index_noah.html#question-3-4",
     "title": "Mastermind Trivia",
     "section": "Question 3",
-    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
+    "text": "Question 3\n\nCharlene - Old/New Country Music\n\nThese instruments are sorted chronologically by when they were first included in Country music:\n\nHarmonica\nSteel Guitar\nElectric guitar\nDobro\n\nPlace the following instrument in this order:\n\nDrums"
   },
   {
     "objectID": "index_noah.html#question-4-4",
     "href": "index_noah.html#question-4-4",
     "title": "Mastermind Trivia",
     "section": "Question 4",
-    "text": "Question 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
+    "text": "Question 4\n\nCharlene - Old/New Country Music\n\nThe first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was Little Log Cabin in the Lane by Fiddlin’ John Carson. When was this recording made?"
   },
   {
     "objectID": "index_noah.html#answer-1-4",
     "href": "index_noah.html#answer-1-4",
     "title": "Mastermind Trivia",
     "section": "Answer 1",
-    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
+    "text": "Answer 1\n\nCharlene - Old/New Country Music\n\nThe Academy of Country Music Awards distinguishes certain artists with their Triple-Crown Award, honoring artists who have won each of the Top New Artist, Top Artist and Entertainer of the Year awards at any point in their career; only 11 country acts have been bestowed this honor in the history of the ACM Awards. Which of these artists have not been bestowed this honor?\n\nThe Chicks/Dixie Chicks"
   },
   {
     "objectID": "index_noah.html#answer-2-4",
     "href": "index_noah.html#answer-2-4",
     "title": "Mastermind Trivia",
     "section": "Answer 2",
-    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors\nR comes after S in the alphabet (R is a successor of the language S)"
+    "text": "Answer 2\n\nCharlene - Old/New Country Music\n\nWhen Shania Twain released her hit album Up! in 2002, there were actually three versions of the album released: a pop version, a country version and a version in the style of Indian film music. Moreover, the corresponding album discs were coloured based on their version. What colour is the disc for the country version of Up!?\n\nGreen (pop is red and Indian film music is blue)"
   },
   {
     "objectID": "index_noah.html#answer-3-4",
     "href": "index_noah.html#answer-3-4",
     "title": "Mastermind Trivia",
     "section": "Answer 3",
-    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date.\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
+    "text": "Answer 3\n\nCharlene - Old/New Country Music\n\nThese instruments are sorted chronologically by when they were first included in Country music:\n\nHarmonica (Inception)\nSteel Guitar (1922)\nDrums (1935)\nElectric guitar (1938)\nDobro (1939)"
   },
   {
     "objectID": "index_noah.html#answer-4-4",
     "href": "index_noah.html#answer-4-4",
     "title": "Mastermind Trivia",
     "section": "Answer 4",
-    "text": "Answer 4\n\nAlex - R programming language\n\nAs of November 3rd, 2026 at 1:47pm, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25623"
+    "text": "Answer 4\n\nCharlene - Old/New Country Music\n\nThe first commercial recording of what is widely considered to be the first country song featuring vocals and lyrics was Little Log Cabin in the Lane by Fiddlin’ John Carson. When was this recording made?\n\nJune 14th, 1923"
+  },
+  {
+    "objectID": "index_noah.html#question-1-5",
+    "href": "index_noah.html#question-1-5",
+    "title": "Mastermind Trivia",
+    "section": "Question 1",
+    "text": "Question 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nR!sk\nPyRSquared\nDirections in Statistical Computing\nCascadia R"
+  },
+  {
+    "objectID": "index_noah.html#question-2-5",
+    "href": "index_noah.html#question-2-5",
+    "title": "Mastermind Trivia",
+    "section": "Question 2",
+    "text": "Question 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)"
+  },
+  {
+    "objectID": "index_noah.html#question-3-5",
+    "href": "index_noah.html#question-3-5",
+    "title": "Mastermind Trivia",
+    "section": "Question 3",
+    "text": "Question 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++\nPython\nJava\nPowershell\n\nPlace the following programming language in this order:\n\nR"
+  },
+  {
+    "objectID": "index_noah.html#question-4-5",
+    "href": "index_noah.html#question-4-5",
+    "title": "Mastermind Trivia",
+    "section": "Question 4",
+    "text": "Question 4\n\nAlex - R programming language\n\nAn R package is a separate collection of code bundled together as a single unit to be shared with other R users. As of November 7th, 2026 at 11:11am, how many R packages are on the CRAN (Comprehensive R Archive Network)?"
+  },
+  {
+    "objectID": "index_noah.html#answer-1-5",
+    "href": "index_noah.html#answer-1-5",
+    "title": "Mastermind Trivia",
+    "section": "Answer 1",
+    "text": "Answer 1\n\nAlex - R programming language\n\nWhich of these is not a conference affiliated with R?\n\nPyRSquared"
+  },
+  {
+    "objectID": "index_noah.html#answer-2-5",
+    "href": "index_noah.html#answer-2-5",
+    "title": "Mastermind Trivia",
+    "section": "Answer 2",
+    "text": "Answer 2\n\nAlex - R programming language\n\nWhy is the R programming language named as such? (Two answers, 0.5 points each)\n\nR is the shared first initial of the language’s authors\nR comes after S in the alphabet (R is a successor of the language S)"
+  },
+  {
+    "objectID": "index_noah.html#answer-3-5",
+    "href": "index_noah.html#answer-3-5",
+    "title": "Mastermind Trivia",
+    "section": "Answer 3",
+    "text": "Answer 3\n\nAlex - R programming language\n\nThese programming languages are sorted by release date:\n\nC++ (1983)\nPython (1991)\nR (1993)\nJava (1995)\nPowershell (2006)"
+  },
+  {
+    "objectID": "index_noah.html#answer-4-5",
+    "href": "index_noah.html#answer-4-5",
+    "title": "Mastermind Trivia",
+    "section": "Answer 4",
+    "text": "Answer 4\n\nAlex - R programming language\n\nAn R package is a separate collection of code bundled together as a single unit to be shared with other R users. As of November 7th, 2026 at 11:11am, how many R packages are on the CRAN (Comprehensive R Archive Network)?\n\n25688"
   }
 ]
